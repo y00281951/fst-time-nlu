@@ -513,6 +513,8 @@ python main.py --language english --file src/english/test/groundtruth_utc_700eng
 
 Copyright (c) 2025 Ming Yu (yuming@oppo.com), Liangliang Han (hanliangliang@oppo.com)
 
+**OPPO AI中心 PostTrain组**
+
 ## 引用
 
 如果本项目对您的研究或工作有帮助，欢迎引用：
