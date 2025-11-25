@@ -520,11 +520,12 @@ Copyright (c) 2025 Ming Yu (yuming@oppo.com), Liangliang Han (hanliangliang@oppo
 如果本项目对您的研究或工作有帮助，欢迎引用：
 
 ```bibtex
-@misc{fst-time-nlu,
+@misc{fst-time-nlu-2025,
   title={FST Time NLU: Production First Time Expression Recognition},
   author={Ming Yu and Liangliang Han},
   year={2025},
   publisher={GitHub},
-  howpublished={\url{https://github.com/y00281951/fst-time-nlu}}
+  howpublished={\url{https://github.com/y00281951/fst-time-nlu}},
+  note={OPPO AI Center, LLM Algorithm Department}
 }
 ```
