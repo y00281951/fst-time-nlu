@@ -511,7 +511,7 @@ This project is licensed under the [Apache License 2.0](LICENSE).
 
 Copyright (c) 2025 Ming Yu (yuming@oppo.com), Liangliang Han (hanliangliang@oppo.com)
 
-**OPPO AI Center, PostTrain Group**
+**OPPO AI Center, LLM Algorithm Department**
 
 ## Citation
 
