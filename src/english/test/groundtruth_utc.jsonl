@@ -1,0 +1,294 @@
+{"query": "remind me in ten minutes", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T08:10:00Z"]]}
+{"query": "a friday flight to beijing", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-24T00:00:00Z", "2025-01-24T23:59:59Z"]]}
+{"query": "friday flight to beijing", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-24T00:00:00Z", "2025-01-24T23:59:59Z"]]}
+{"query": "next friday flight to beijing", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-31T00:00:00Z", "2025-01-31T23:59:59Z"]]}
+{"query": "delete the midnight alarm", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T00:00:00Z"]]}
+{"query": "a tuesday at eight", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T08:00:00Z"]]}
+{"query": "every monday", "metadata": "2025-01-21T08:00:00Z", "datetime_result": []}
+{"query": "next monday at 6 pm remind me to eat hotpot", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-27T18:00:00Z"]]}
+{"query": "tomorrow at 8", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-22T08:00:00Z"]]}
+{"query": "weekend", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-25T00:00:00Z", "2025-01-26T23:59:59Z"]]}
+{"query": "i ten minutes seven hundred ninety six", "metadata": "2025-01-21T08:00:00Z", "datetime_result": []}
+{"query": "i ten minutes seven hundred ninety six", "metadata": "2025-01-21T08:00:00Z", "datetime_result": []}
+{"query": "2nd", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-02T00:00:00Z", "2025-01-02T23:59:59Z"]]}
+{"query": "8 minutes later", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T08:08:00Z"]]}
+{"query": "remind me on july 20th", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-07-20T00:00:00Z", "2025-07-20T23:59:59Z"]]}
+{"query": "remind me 2 hours and 18 minutes later", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T10:18:00Z"]]}
+{"query": "remind me at 12 to book a room with girlfriend", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T12:00:00Z"]]}
+{"query": "1 pm", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T13:00:00Z"]]}
+{"query": "noon 12 o'clock", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T12:00:00Z"]]}
+{"query": "remind me to wake up at 3 today", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T03:00:00Z"]]}
+{"query": "remind me to have a meeting at 12, then he will speak out that voice by himself, then until 1", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T12:00:00Z"]]}
+{"query": "today at 9", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T09:00:00Z"]]}
+{"query": "remind me to bring contact lens solution and makeup at 9 today", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T00:00:00Z", "2025-01-21T23:59:59Z"], ["2025-01-21T09:00:00Z"]]}
+{"query": "today that huizhou solar calendar march 8th", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T00:00:00Z", "2025-01-21T23:59:59Z"], ["2025-03-08T00:00:00Z", "2025-03-08T23:59:59Z"]]}
+{"query": "recent week", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-14T08:00:00Z", "2025-01-21T08:00:00Z"]]}
+{"query": "march", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-03-01T00:00:00Z", "2025-03-31T23:59:59Z"]]}
+{"query": "today is november 18th 2018", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2018-11-18T00:00:00Z", "2018-11-18T23:59:59Z"]]}
+{"query": "november", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-11-01T00:00:00Z", "2025-11-30T23:59:59Z"]]}
+{"query": "9 o'clock", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T09:00:00Z"]]}
+{"query": "8:30", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T08:30:00Z"]]}
+{"query": "8:12", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T08:12:00Z"]]}
+{"query": "this weekend", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-25T00:00:00Z", "2025-01-26T23:59:59Z"]]}
+{"query": "this week", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-20T00:00:00Z", "2025-01-26T23:59:59Z"]]}
+{"query": "chinese new year's day", "metadata": "2025-02-21T08:00:00Z", "datetime_result": [["2025-01-29T00:00:00Z", "2025-01-29T23:59:59Z"]]}
+{"query": "day before yesterday", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-18T00:00:00Z", "2025-01-18T23:59:59Z"]]}
+{"query": "last year september", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2024-09-01T00:00:00Z", "2024-09-30T23:59:59Z"]]}
+{"query": "i want to see photos from june 2017", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2017-06-01T00:00:00Z", "2017-06-30T23:59:59Z"]]}
+{"query": "next two days", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T08:00:00Z", "2025-01-23T08:00:00Z"]]}
+{"query": "next three months", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T08:00:00Z", "2025-04-21T08:00:00Z"]]}
+{"query": "previous two months", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2024-11-21T08:00:00Z", "2025-01-21T08:00:00Z"]]}
+{"query": "previous two months", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2024-11-21T08:00:00Z", "2025-01-21T08:00:00Z"]]}
+{"query": "previous two weeks", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-07T08:00:00Z", "2025-01-21T08:00:00Z"]]}
+{"query": "previous two days", "metadata": "2025-01-01T08:00:00Z", "datetime_result": [["2024-12-30T08:00:00Z", "2025-01-01T08:00:00Z"]]}
+{"query": "recent month", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2024-12-21T08:00:00Z", "2025-01-21T08:00:00Z"]]}
+{"query": "last year september", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2024-09-01T00:00:00Z", "2024-09-30T23:59:59Z"]]}
+{"query": "will it rain next saturday", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-02-01T00:00:00Z", "2025-02-01T23:59:59Z"]]}
+{"query": "i want to see photos from the second week of october", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-10-08T00:00:00Z", "2025-10-14T23:59:59Z"]]}
+{"query": "september", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-09-01T00:00:00Z", "2025-09-30T23:59:59Z"]]}
+{"query": "last weekend", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-18T00:00:00Z", "2025-01-19T23:59:59Z"]]}
+{"query": "call at 12:30", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T12:30:00Z"]]}
+{"query": "wake me up in an hour and a half", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T09:30:00Z"]]}
+{"query": "wake me up in half an hour", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T08:30:00Z"]]}
+{"query": "8 am alarm", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T08:00:00Z"]]}
+{"query": "set alarm from tomorrow to day after tomorrow at 9", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-22T00:00:00Z", "2025-01-23T09:00:00Z"]]}
+{"query": "recent 1 month", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2024-12-21T08:00:00Z", "2025-01-21T08:00:00Z"]]}
+{"query": "3rd 8 am alarm", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-03T08:00:00Z"]]}
+{"query": "set a tomorrow alarm", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-22T00:00:00Z", "2025-01-22T23:59:59Z"]]}
+{"query": "june 8th 2019", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2019-06-08T00:00:00Z", "2019-06-08T23:59:59Z"]]}
+{"query": "september 1st", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-09-01T00:00:00Z", "2025-09-01T23:59:59Z"]]}
+{"query": "december 29", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-12-29T00:00:00Z", "2025-12-29T23:59:59Z"]]}
+{"query": "last year's photos", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2024-01-01T00:00:00Z", "2024-12-31T23:59:59Z"]]}
+{"query": "recent 10 days", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-11T08:00:00Z", "2025-01-21T08:00:00Z"]]}
+{"query": "last week", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-13T00:00:00Z", "2025-01-19T23:59:59Z"]]}
+{"query": "this wednesday", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-22T00:00:00Z", "2025-01-22T23:59:59Z"]]}
+{"query": "last year", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2024-01-01T00:00:00Z", "2024-12-31T23:59:59Z"]]}
+{"query": "last saturday", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-18T00:00:00Z", "2025-01-18T23:59:59Z"]]}
+{"query": "next year valentine's day", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2026-02-14T00:00:00Z", "2026-02-14T23:59:59Z"]]}
+{"query": "set a 5 o'clock alarm", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T05:00:00Z"]]}
+{"query": "tomorrow 8 o'clock alarm", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-22T08:00:00Z"]]}
+{"query": "tomorrow morning 8 o'clock alarm", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-22T08:00:00Z"]]}
+{"query": "tomorrow evening 8 o'clock alarm", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-22T20:00:00Z"]]}
+{"query": "evening 8 o'clock alarm", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T20:00:00Z"]]}
+{"query": "8 o'clock alarm", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T08:00:00Z"]]}
+{"query": "wake me up in 10 minutes", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T08:10:00Z"]]}
+{"query": "100 seconds later", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T08:01:40Z"]]}
+{"query": "10 minutes later", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T08:10:00Z"]]}
+{"query": "5 minutes past 2", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T02:05:00Z"]]}
+{"query": "tomorrow 9 o'clock", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-22T09:00:00Z"]]}
+{"query": "6 pm", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T18:00:00Z"]]}
+{"query": "8 am", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T08:00:00Z"]]}
+{"query": "12 pm", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-22T00:00:00Z"]]}
+{"query": "10 years later", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2035-01-01T00:00:00Z","2035-12-31T23:59:59Z"]]}
+{"query": "today 3 o'clock", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T03:00:00Z"]]}
+{"query": "this tuesday", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T00:00:00Z", "2025-01-21T23:59:59Z"]]}
+{"query": "tomorrow evening 8 o'clock", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-22T20:00:00Z"]]}
+{"query": "tomorrow morning 8 o'clock", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-22T08:00:00Z"]]}
+{"query": "early morning", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T05:00:00Z", "2025-01-21T08:00:00Z"]]}
+{"query": "dusk", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T17:00:00Z", "2025-01-21T19:00:00Z"]]}
+{"query": "late night", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T23:00:00Z", "2025-01-22T02:00:00Z"]]}
+{"query": "dawn", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T05:00:00Z", "2025-01-21T07:00:00Z"]]}
+{"query": "morning", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T06:00:00Z", "2025-01-21T12:00:00Z"]]}
+{"query": "afternoon", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T13:00:00Z", "2025-01-21T18:00:00Z"]]}
+{"query": "what time does saturday party start", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-11T00:00:00Z", "2025-01-11T23:59:59Z"]]}
+{"query": "i want to go to chiang mai for new year next year, what should i prepare in advance", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2026-01-01T00:00:00Z", "2026-01-01T23:59:59Z"]]}
+{"query": "does anyone ask me out for dinner this friday", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-10T00:00:00Z", "2025-01-10T23:59:59Z"]]}
+{"query": "do i have any exams on july 13", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-07-13T00:00:00Z", "2025-07-13T23:59:59Z"]]}
+{"query": "when does lunch time end on december 11", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-12-11T00:00:00Z", "2025-12-11T23:59:59Z"]]}
+{"query": "how long did i read on october 1", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-10-01T00:00:00Z", "2025-10-01T23:59:59Z"]]}
+{"query": "how much did the sprite i bought in september cost", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-09-01T00:00:00Z", "2025-09-30T23:59:59Z"]]}
+{"query": "find the 2022 admission guide", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2022-01-01T00:00:00Z", "2022-12-31T23:59:59Z"]]}
+{"query": "where is the hotel i stayed on february 21", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-02-21T00:00:00Z", "2025-02-21T23:59:59Z"]]}
+{"query": "do i have any schedule next tuesday at 4 pm", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-14T16:00:00Z"]]}
+{"query": "weekend schedule", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-11T00:00:00Z", "2025-01-12T23:59:59Z"]]}
+{"query": "any meeting conflicts tomorrow at 3 pm", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-07T15:00:00Z"]]}
+{"query": "what plans do i have next monday", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-13T00:00:00Z", "2025-01-13T23:59:59Z"]]}
+{"query": "tomorrow's full schedule", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-07T00:00:00Z", "2025-01-07T23:59:59Z"]]}
+{"query": "time slots available for 1 hour meeting day after tomorrow", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-08T00:00:00Z", "2025-01-08T23:59:59Z"]]}
+{"query": "what arrangements do i have this weekend", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-11T00:00:00Z", "2025-01-12T23:59:59Z"]]}
+{"query": "what did i do last thursday", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-02T00:00:00Z", "2025-01-02T23:59:59Z"]]}
+{"query": "which cantonese restaurants did i visit last month", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2024-12-01T00:00:00Z", "2024-12-31T23:59:59Z"]]}
+{"query": "what was mainly discussed in today's jinzhong district education bureau meeting", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-06T00:00:00Z", "2025-01-06T23:59:59Z"]]}
+{"query": "what todo items do i have this week", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-06T00:00:00Z", "2025-01-12T23:59:59Z"]]}
+{"query": "august 21 work", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-08-21T00:00:00Z", "2025-08-21T23:59:59Z"]]}
+{"query": "total amount of invoices received in december 2024", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2024-12-01T00:00:00Z", "2024-12-31T23:59:59Z"]]}
+{"query": "what is the car ticket number on february 8", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-02-08T00:00:00Z", "2025-02-08T23:59:59Z"]]}
+{"query": "what was the conclusion of january 4 morning meeting", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-04T00:00:00Z", "2025-01-04T23:59:59Z"]]}
+{"query": "last year's medical report", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2024-01-01T00:00:00Z", "2024-12-31T23:59:59Z"]]}
+{"query": "august invoices", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-08-01T00:00:00Z", "2025-08-31T23:59:59Z"]]}
+{"query": "last week's invoices", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2024-12-30T00:00:00Z", "2025-01-05T23:59:59Z"]]}
+{"query": "what arrangements do i have tonight at 18:00", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-06T18:00:00Z"]]}
+{"query": "what arrangements do i have this afternoon", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-06T13:00:00Z", "2025-01-06T18:00:00Z"]]}
+{"query": "what arrangements do i have tomorrow", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-07T00:00:00Z", "2025-01-07T23:59:59Z"]]}
+{"query": "my schedule for the week after next", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-20T00:00:00Z", "2025-01-26T23:59:59Z"]]}
+{"query": "do i have time for afternoon tea tomorrow", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-07T00:00:00Z", "2025-01-07T23:59:59Z"]]}
+{"query": "find the 2024 cantonese restaurant receipts", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2024-01-01T00:00:00Z", "2024-12-31T23:59:59Z"]]}
+{"query": "technical confirmation progress time schedule", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "when do i go play badminton", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "when do i go hiking", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "what time is the medical examination at 363 hospital", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "what is the name of the hotel i checked in on monday", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-06T00:00:00Z", "2025-01-06T23:59:59Z"]]}
+{"query": "when is the class reunion planning to check into hotel", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "when do i go to dianchi lake to feed red-billed gulls", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "what time do i go watch star trek", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "help me check the time of the booked badminton court", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "a salmon restaurant i ate at in august", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-08-01T00:00:00Z", "2025-08-31T23:59:59Z"]]}
+{"query": "haidilao dining receipt from last week", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2024-12-30T00:00:00Z", "2025-01-05T23:59:59Z"]]}
+{"query": "january 2025 schedule", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-01T00:00:00Z", "2025-01-31T23:59:59Z"]]}
+{"query": "how many documentaries did i watch this year", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-01T00:00:00Z", "2025-12-31T23:59:59Z"]]}
+{"query": "how many times did i pray to buddha this year", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-01T00:00:00Z", "2025-12-31T23:59:59Z"]]}
+{"query": "three year anniversary plan where to eat", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "when do i accompany friends on blind dates", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "where is tomorrow's dining location", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-07T00:00:00Z", "2025-01-07T23:59:59Z"]]}
+{"query": "which places in chiang mai do i travel to today", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-06T00:00:00Z", "2025-01-06T23:59:59Z"]]}
+{"query": "what exams do i have next week", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-13T00:00:00Z", "2025-01-19T23:59:59Z"]]}
+{"query": "what schedule do i have on halloween", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-10-31T00:00:00Z", "2025-10-31T23:59:59Z"]]}
+{"query": "which day next week do i go watch disney movie", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-13T00:00:00Z", "2025-01-19T23:59:59Z"]]}
+{"query": "how many days until school exam", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "how did i arrange previous double ninth festival", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2024-10-11T00:00:00Z", "2024-10-11T23:59:59Z"]]}
+{"query": "where did pengpeng and i go for hotpot last week", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2024-12-30T00:00:00Z", "2025-01-05T23:59:59Z"]]}
+{"query": "which subjects did i fail at driving school this year", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-01T00:00:00Z", "2025-12-31T23:59:59Z"]]}
+{"query": "what time does driving instructor's class start", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "which day was the second last time i ate donkey rolling", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "which train station does today's train depart from", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-06T00:00:00Z", "2025-01-06T23:59:59Z"]]}
+{"query": "when is the next next time meeting with fangfang", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "what gift to prepare for husband on wedding anniversary", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "how long did today's shuangliu district education bureau meeting last", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-06T00:00:00Z", "2025-01-06T23:59:59Z"]]}
+{"query": "which days did i watch deadpool 1 and 2", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "where did i attend grandma's birthday celebration last month", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2024-12-01T00:00:00Z", "2024-12-31T23:59:59Z"]]}
+{"query": "where to visit cemetery on father's day", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-06-15T00:00:00Z", "2025-06-15T23:59:59Z"]]}
+{"query": "what time does today's daily summary meeting start", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-06T00:00:00Z", "2025-01-06T23:59:59Z"]]}
+{"query": "what did dingding and i eat for afternoon tea last time", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "where did mom and i spend mother's day", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-05-11T00:00:00Z", "2025-05-11T23:59:59Z"]]}
+{"query": "where will next year's promotion defense be held", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2026-01-01T00:00:00Z", "2026-12-31T23:59:59Z"]]}
+{"query": "where did my family and i go for dinner on arbor day", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-03-12T00:00:00Z", "2025-03-12T23:59:59Z"]]}
+{"query": "who will i eat sushi with next time", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "how long until my intermediate accounting certificate exam", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "when did i go to the snack street", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "date and movie name for next movie watching plan", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "expected duration of marketing strategy discussion meeting", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "when is the sichuan tourism city bidding meeting", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "what is the phone number of tomorrow's new employee training instructor", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-07T00:00:00Z", "2025-01-07T23:59:59Z"]]}
+{"query": "what is the hometown of the new employee to be trained tomorrow", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-07T00:00:00Z", "2025-01-07T23:59:59Z"]]}
+{"query": "when is the specific time of the smart glasses solution meeting", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "which day is the genshin impact game feedback collection meeting", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "when is the next time having dinner with xiaoshuai", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "where to eat buffet hotpot with manman next time", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "where did xiaomei and i eat lunch during last xinjiang trip", "metadata": "2025-01-06T00:00:00Z", "datetime_result": []}
+{"query": "what arrangements on march 15 2025", "metadata": "2025-01-07T00:00:00Z", "datetime_result": [["2025-03-15T00:00:00Z", "2025-03-15T23:59:59Z"]]}
+{"query": "what to do on april 18 2025", "metadata": "2025-01-07T00:00:00Z", "datetime_result": [["2025-04-18T00:00:00Z", "2025-04-18T23:59:59Z"]]}
+{"query": "what needs to be done on april 20 2025", "metadata": "2025-01-07T00:00:00Z", "datetime_result": [["2025-04-20T00:00:00Z", "2025-04-20T23:59:59Z"]]}
+{"query": "what to plan on april 30 2025", "metadata": "2025-01-07T00:00:00Z", "datetime_result": [["2025-04-30T00:00:00Z", "2025-04-30T23:59:59Z"]]}
+{"query": "what items on may 10 2025", "metadata": "2025-01-07T00:00:00Z", "datetime_result": [["2025-05-10T00:00:00Z", "2025-05-10T23:59:59Z"]]}
+{"query": "what's happening on july 30 2025", "metadata": "2025-01-07T00:00:00Z", "datetime_result": [["2025-07-30T00:00:00Z", "2025-07-30T23:59:59Z"]]}
+{"query": "what to prepare on august 20 2025", "metadata": "2025-01-07T00:00:00Z", "datetime_result": [["2025-08-20T00:00:00Z", "2025-08-20T23:59:59Z"]]}
+{"query": "what did i do on september 1 2025", "metadata": "2025-01-07T00:00:00Z", "datetime_result": [["2025-09-01T00:00:00Z", "2025-09-01T23:59:59Z"]]}
+{"query": "what appointment on september 18 2025", "metadata": "2025-01-07T00:00:00Z", "datetime_result": [["2025-09-18T00:00:00Z", "2025-09-18T23:59:59Z"]]}
+{"query": "what items to do on september 25 2025", "metadata": "2025-01-07T00:00:00Z", "datetime_result": [["2025-09-25T00:00:00Z", "2025-09-25T23:59:59Z"]]}
+{"query": "what to do on september 28 2025", "metadata": "2025-01-07T00:00:00Z", "datetime_result": [["2025-09-28T00:00:00Z", "2025-09-28T23:59:59Z"]]}
+{"query": "what to prepare on october 17 2025", "metadata": "2025-01-07T00:00:00Z", "datetime_result": [["2025-10-17T00:00:00Z", "2025-10-17T23:59:59Z"]]}
+{"query": "what arrangements on october 20 2025", "metadata": "2025-01-07T00:00:00Z", "datetime_result": [["2025-10-20T00:00:00Z", "2025-10-20T23:59:59Z"]]}
+{"query": "what expenses on october 31 2025", "metadata": "2025-01-07T00:00:00Z", "datetime_result": [["2025-10-31T00:00:00Z", "2025-10-31T23:59:59Z"]]}
+{"query": "when is final exam in 2025", "metadata": "2025-01-07T00:00:00Z", "datetime_result": [["2025-01-01T00:00:00Z", "2025-12-31T23:59:59Z"]]}
+{"query": "what arrangements in mid december this year", "metadata": "2025-01-07T00:00:00Z", "datetime_result": [["2025-12-11T00:00:00Z", "2025-12-20T23:59:59Z"]]}
+{"query": "what am i busy with on december 20 2025", "metadata": "2025-01-07T00:00:00Z", "datetime_result": [["2025-12-20T00:00:00Z", "2025-12-20T23:59:59Z"]]}
+{"query": "what plans in march 2026", "metadata": "2025-01-07T00:00:00Z", "datetime_result": [["2026-03-01T00:00:00Z", "2026-03-31T23:59:59Z"]]}
+{"query": "what arrangements in may 2026", "metadata": "2025-01-07T00:00:00Z", "datetime_result": [["2026-05-01T00:00:00Z", "2026-05-31T23:59:59Z"]]}
+{"query": "recent week", "metadata": "2025-07-24T00:00:00Z", "datetime_result": [["2025-07-17T00:00:00Z", "2025-07-24T00:00:00Z"]]}
+{"query": "recent 30 days", "metadata": "2025-07-24T00:00:00Z", "datetime_result": [["2025-06-24T00:00:00Z", "2025-07-24T00:00:00Z"]]}
+{"query": "yesterday", "metadata": "2025-07-23T00:00:00Z", "datetime_result": [["2025-07-22T00:00:00Z", "2025-07-22T23:59:59Z"]]}
+{"query": "this month", "metadata": "2025-07-01T00:00:00Z", "datetime_result": [["2025-07-01T00:00:00Z", "2025-07-31T23:59:59Z"]]}
+{"query": "this month", "metadata": "2025-07-01T00:00:00Z", "datetime_result": [["2025-07-01T00:00:00Z", "2025-07-31T23:59:59Z"]]}
+{"query": "this week", "metadata": "2025-07-21T00:00:00Z", "datetime_result": [["2025-07-21T00:00:00Z", "2025-07-27T23:59:59Z"]]}
+{"query": "today", "metadata": "2025-07-24T00:00:00Z", "datetime_result": [["2025-07-24T00:00:00Z", "2025-07-24T23:59:59Z"]]}
+{"query": "june", "metadata": "2025-06-01T00:00:00Z", "datetime_result": [["2025-06-01T00:00:00Z", "2025-06-30T23:59:59Z"]]}
+{"query": "recently", "metadata": "2025-07-24T08:00:00Z", "datetime_result": [["2025-07-17T00:00:00Z", "2025-07-24T23:59:59Z"]]}
+{"query": "2025", "metadata": "2025-01-07T00:00:00Z", "datetime_result": [["2025-01-01T00:00:00Z", "2025-12-31T23:59:59Z"]]}
+{"query": "mid autumn festival", "metadata": "2025-07-24T00:00:00Z", "datetime_result": [["2025-10-06T00:00:00Z", "2025-10-06T23:59:59Z"]]}
+{"query": "teachers' day", "metadata": "2025-07-24T00:00:00Z", "datetime_result": [["2025-09-10T00:00:00Z", "2025-09-10T23:59:59Z"]]}
+{"query": "last century", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["1900-01-01T00:00:00Z", "1999-12-31T23:59:59Z"]]}
+{"query": "this century", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2000-01-01T00:00:00Z", "2099-12-31T23:59:59Z"]]}
+{"query": "19th century", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["1800-01-01T00:00:00Z", "1899-12-31T23:59:59Z"]]}
+{"query": "the 80s", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["1980-01-01T00:00:00Z", "1989-12-31T23:59:59Z"]]}
+{"query": "seventies of last century", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["1970-01-01T00:00:00Z", "1979-12-31T23:59:59Z"]]}
+{"query": "nineties of twentieth century", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["1990-01-01T00:00:00Z", "1999-12-31T23:59:59Z"]]}
+{"query": "may day", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-05-01T00:00:00Z", "2025-05-05T23:59:59Z"]]}
+{"query": "where to eat on may day", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-05-01T00:00:00Z", "2025-05-01T23:59:59Z"]]}
+{"query": "day before may day", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-04-30T00:00:00Z", "2025-04-30T23:59:59Z"]]}
+{"query": "id number 140302197706220124", "metadata": "2025-01-21T08:00:00Z", "datetime_result": []}
+{"query": "leon lai starring movie already released", "metadata": "2025-01-21T08:00:00Z", "datetime_result": []}
+{"query": "there is one tenth chance that stock lost money", "metadata": "2025-01-21T08:00:00Z", "datetime_result": []}
+{"query": "living in nanjing net 2021-09-21 popularity 578 view", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2021-09-21T00:00:00Z", "2021-09-21T23:59:59Z"]]}
+{"query": "0.1", "metadata": "2025-01-21T08:00:00Z", "datetime_result": []}
+{"query": "three weeks from now", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-02-10T00:00:00Z", "2025-02-10T23:59:59Z"]]}
+{"query": "local station august 15", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-08-15T00:00:00Z","2025-08-15T23:59:59Z"]]}
+{"query": "this toy is not fun at all", "metadata": "2025-01-21T08:00:00Z", "datetime_result": []}
+{"query": "a day's plan lies in the morning", "metadata": "2025-01-21T08:00:00Z", "datetime_result": []}
+{"query": "end of december", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-12-21T00:00:00Z", "2025-12-31T23:59:59Z"]]}
+{"query": "end of december", "metadata": "2025-07-24T00:00:00Z", "datetime_result": [["2025-12-21T00:00:00Z", "2025-12-31T23:59:59Z"]]}
+{"query": "end of december", "metadata": "2025-07-24T00:00:00Z", "datetime_result": [["2025-12-21T00:00:00Z", "2025-12-31T23:59:59Z"]]}
+{"query": "end of this month", "metadata": "2025-07-01T00:00:00Z", "datetime_result": [["2025-07-21T00:00:00Z", "2025-07-31T23:59:59Z"]]}
+{"query": "end of this month", "metadata": "2025-07-01T00:00:00Z", "datetime_result": [["2025-07-21T00:00:00Z", "2025-07-31T23:59:59Z"]]}
+{"query": "end of this month", "metadata": "2025-07-01T00:00:00Z", "datetime_result": [["2025-07-21T00:00:00Z", "2025-07-31T23:59:59Z"]]}
+{"query": "end of 2018", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2018-12-01T00:00:00Z", "2018-12-31T23:59:59Z"]]}
+{"query": "end of last year", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2024-12-01T00:00:00Z", "2024-12-31T23:59:59Z"]]}
+{"query": "query 202403073 plan", "metadata": "2025-07-01T00:00:00Z", "datetime_result": []}
+{"query": "it's an eleven o'clock thing", "metadata": "2025-07-25T00:00:00Z", "datetime_result": [["2025-07-25T11:00:00Z"]]}
+{"query": "27.3", "metadata": "2025-01-21T08:00:00Z", "datetime_result": []}
+{"query": "minus 8.8", "metadata": "2025-01-21T08:00:00Z", "datetime_result": []}
+{"query": "plus 7.8", "metadata": "2025-01-21T08:00:00Z", "datetime_result": []}
+{"query": "0.5", "metadata": "2025-01-21T08:00:00Z", "datetime_result": []}
+{"query": "0.1", "metadata": "2025-01-21T08:00:00Z", "datetime_result": []}
+{"query": "20.6", "metadata": "2025-01-21T08:00:00Z", "datetime_result": []}
+{"query": "raise temperature to 24.5 degrees", "metadata": "2025-07-21T00:00:00Z", "datetime_result": []}
+{"query": "6 minutes past 10", "metadata": "2025-07-21T00:00:00Z", "datetime_result": [["2025-07-21T10:06:00Z"]]}
+{"query": "raise temperature to 24.5 degrees", "metadata": "2025-07-25T00:00:00Z", "datetime_result": []}
+{"query": "raise temperature by 10.5 degrees", "metadata": "2025-01-21T08:00:00Z", "datetime_result": []}
+{"query": "yesterday morning", "metadata": "2025-07-25T00:00:00Z", "datetime_result": [["2025-07-24T06:00:00Z", "2025-07-24T12:00:00Z"]]}
+{"query": "monday afternoon", "metadata": "2025-07-21T00:00:00Z", "datetime_result": [["2025-07-21T13:00:00Z", "2025-07-21T18:00:00Z"]]}
+{"query": "last night", "metadata": "2025-07-25T00:00:00Z", "datetime_result": [["2025-07-24T21:00:00Z", "2025-07-24T23:59:59Z"]]}
+{"query": "tonight", "metadata": "2025-07-24T00:00:00Z", "datetime_result": [["2025-07-24T21:00:00Z", "2025-07-24T23:59:59Z"]]}
+{"query": "what have you been doing recently", "metadata": "2025-07-24T08:00:00Z", "datetime_result": [["2025-07-17T00:00:00Z", "2025-07-24T23:59:59Z"]]}
+{"query": "schedule from january 1 to january 6 2025", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-01T00:00:00Z", "2025-01-06T23:59:59Z"]]}
+{"query": "name of hotel checking in tonight", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-06T21:00:00Z", "2025-01-06T23:59:59Z"]]}
+{"query": "address of hotel checking in tomorrow evening", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-07T18:00:00Z", "2025-01-07T23:59:59Z"]]}
+{"query": "morning flight departure time", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-06T06:00:00Z", "2025-01-06T12:00:00Z"]]}
+{"query": "do i have time for tea day after tomorrow afternoon", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-08T13:00:00Z", "2025-01-08T18:00:00Z"]]}
+{"query": "what is the name of the hotel i'm checking into tonight", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-06T21:00:00Z", "2025-01-06T23:59:59Z"]]}
+{"query": "my flight number tonight", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-06T21:00:00Z", "2025-01-06T23:59:59Z"]]}
+{"query": "what did i eat for lunch", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-06T11:30:00Z", "2025-01-06T14:00:00Z"]]}
+{"query": "what time does tomorrow afternoon's train depart", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2025-01-07T13:00:00Z", "2025-01-07T18:00:00Z"]]}
+{"query": "tomorrow evening", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-22T18:00:00Z", "2025-01-22T23:59:59Z"]]}
+{"query": "nighttime", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T21:00:00Z", "2025-01-21T23:59:59Z"]]}
+{"query": "evening", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T18:00:00Z", "2025-01-21T23:59:59Z"]]}
+{"query": "morning", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T06:00:00Z", "2025-01-21T12:00:00Z"]]}
+{"query": "noon", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T11:30:00Z", "2025-01-21T14:00:00Z"]]}
+{"query": "afternoon", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T13:00:00Z", "2025-01-21T18:00:00Z"]]}
+{"query": "8 to 10 o'clock", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T08:00:00Z", "2025-01-21T10:00:00Z"]]}
+{"query": "mother's day", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-05-11T00:00:00Z", "2025-05-11T23:59:59Z"]]}
+{"query": "how did i arrange previous double ninth festival", "metadata": "2025-01-06T00:00:00Z", "datetime_result": [["2024-10-11T00:00:00Z", "2024-10-11T23:59:59Z"]]}
+{"query": "which day is dragon boat festival", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-05-31T00:00:00Z", "2025-05-31T23:59:59Z"]]}
+{"query": "last year's new year's eve", "metadata": "2025-07-24T00:00:00Z", "datetime_result": [["2024-12-31T00:00:00Z", "2024-12-31T23:59:59Z"]]}
+{"query": "day before teachers' day", "metadata": "2025-07-24T00:00:00Z", "datetime_result": [["2025-09-09T00:00:00Z", "2025-09-09T23:59:59Z"]]}
+{"query": "last day of february 2020", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2020-02-29T00:00:00Z", "2020-02-29T23:59:59Z"]]}
+{"query": "last day of february 1900", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["1900-02-28T00:00:00Z", "1900-02-28T23:59:59Z"]]}
+{"query": "last month of year 2000", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2000-12-01T00:00:00Z", "2000-12-31T23:59:59Z"]]}
+{"query": "last day of september", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-09-30T00:00:00Z", "2025-09-30T23:59:59Z"]]}
+{"query": "last day of year 2000", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2000-12-31T00:00:00Z", "2000-12-31T23:59:59Z"]]}
+{"query": "april 3 to may 1", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-04-03T00:00:00Z", "2025-05-01T23:59:59Z"]]}
+{"query": "scheduled from april 20 2021 11:00 to april 25 2021 17:00", "metadata": "2025-04-20T11:00:00Z", "datetime_result": [["2021-04-20T11:00:00Z", "2021-04-25T17:00:00Z"]]}
+{"query": "last year april 3 to may 1", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2024-04-03T00:00:00Z", "2024-05-01T23:59:59Z"]]}
+{"query": "what was i doing from june 9 to july 6 last year", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2024-06-09T00:00:00Z", "2024-07-06T23:59:59Z"]]}
+{"query": "what happened from august 20 last year to november 10 this year", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2024-08-20T00:00:00Z", "2025-11-10T23:59:59Z"]]}
+{"query": "june 9 last year", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2024-06-09T00:00:00Z", "2024-06-09T23:59:59Z"]]}
+{"query": "are you free from 14:40 to 15:10 tomorrow", "metadata": "2025-01-16T16:36:40Z", "datetime_result": [["2025-01-17T14:40:00Z", "2025-01-17T15:10:00Z"]]}
+{"query": "are you free from 14:31 to 15:00 tomorrow", "metadata": "2025-01-16T16:35:51Z", "datetime_result": [["2025-01-17T14:31:00Z", "2025-01-17T15:00:00Z"]]}
+{"query": "last day of 2017", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2017-12-31T00:00:00Z", "2017-12-31T23:59:59Z"]]}
+{"query": "what was i doing from june 9 to july 6 last year", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2024-06-09T00:00:00Z", "2024-07-06T23:59:59Z"]]}
+{"query": "what happened from august 20 last year to november 10 this year", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2024-08-20T00:00:00Z", "2025-11-10T23:59:59Z"]]}
+{"query": "what happened from august 20 to november 10 last year", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2024-08-20T00:00:00Z", "2024-11-10T23:59:59Z"]]}
+{"query": "what happened on november 10 the year before last", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2023-11-10T00:00:00Z", "2023-11-10T23:59:59Z"]]}
+{"query": "what happened on august 20 last year", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2024-08-20T00:00:00Z", "2024-08-20T23:59:59Z"]]}
+{"query": "scheduled for april 20 2021 11:00", "metadata": "2025-04-20T11:00:00Z", "datetime_result": [["2021-04-20T11:00:00Z"]]}
+{"query": "twenty one", "metadata": "2025-01-21T08:00:00Z", "datetime_result": []}
+{"query": "from tonight 8:30 to tomorrow morning", "metadata": "2025-01-21T08:00:00Z", "datetime_result": [["2025-01-21T20:30:00Z", "2025-01-22T12:00:00Z"]]}

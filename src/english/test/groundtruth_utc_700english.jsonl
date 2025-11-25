@@ -1,0 +1,583 @@
+{"query": "On 24th", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-24T00:00:00Z", "2013-02-24T23:59:59Z"]]}
+{"query": "ten-thirty", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "1974", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "May", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-05-01T00:00:00Z", "2013-05-31T23:59:59Z"]]}
+{"query": "now", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z"]]}
+{"query": "right now", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z"]]}
+{"query": "just now", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z"]]}
+{"query": "at the moment", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z"]]}
+{"query": "today", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T00:00:00Z", "2013-02-12T23:59:59Z"]]}
+{"query": "2/2013", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-01T00:00:00Z", "2013-02-28T23:59:59Z"]]}
+{"query": "in 2014", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-01-01T00:00:00Z", "2014-12-31T23:59:59Z"]]}
+{"query": "yesterday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-11T00:00:00Z", "2013-02-11T23:59:59Z"]]}
+{"query": "tomorrow", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-13T00:00:00Z", "2013-02-13T23:59:59Z"]]}
+{"query": "monday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-11T00:00:00Z", "2013-02-11T23:59:59Z"]]}
+{"query": "mon.", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-11T00:00:00Z", "2013-02-11T23:59:59Z"]]}
+{"query": "this monday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-11T00:00:00Z", "2013-02-11T23:59:59Z"]]}
+{"query": "Monday, Feb 18", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-18T00:00:00Z", "2013-02-18T23:59:59Z"]]}
+{"query": "Mon, February 18", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-18T00:00:00Z", "2013-02-18T23:59:59Z"]]}
+{"query": "tuesday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T00:00:00Z", "2013-02-12T23:59:59Z"]]}
+{"query": "Tuesday the 19th", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-19T00:00:00Z", "2013-02-19T23:59:59Z"]]}
+{"query": "Tuesday 19th", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-19T00:00:00Z", "2013-02-19T23:59:59Z"]]}
+{"query": "thursday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-14T00:00:00Z", "2013-02-14T23:59:59Z"]]}
+{"query": "thu", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-14T00:00:00Z", "2013-02-14T23:59:59Z"]]}
+{"query": "thu.", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-14T00:00:00Z", "2013-02-14T23:59:59Z"]]}
+{"query": "friday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-15T00:00:00Z", "2013-02-15T23:59:59Z"]]}
+{"query": "fri", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-15T00:00:00Z", "2013-02-15T23:59:59Z"]]}
+{"query": "fri.", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-15T00:00:00Z", "2013-02-15T23:59:59Z"]]}
+{"query": "saturday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-16T00:00:00Z", "2013-02-16T23:59:59Z"]]}
+{"query": "sat", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-16T00:00:00Z", "2013-02-16T23:59:59Z"]]}
+{"query": "sat.", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-16T00:00:00Z", "2013-02-16T23:59:59Z"]]}
+{"query": "sunday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-17T00:00:00Z", "2013-02-17T23:59:59Z"]]}
+{"query": "sun", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-17T00:00:00Z", "2013-02-17T23:59:59Z"]]}
+{"query": "sun.", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-17T00:00:00Z", "2013-02-17T23:59:59Z"]]}
+{"query": "the 1st of march", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-01T00:00:00Z", "2013-03-01T23:59:59Z"]]}
+{"query": "first of march", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-01T00:00:00Z", "2013-03-01T23:59:59Z"]]}
+{"query": "the first of march", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-01T00:00:00Z", "2013-03-01T23:59:59Z"]]}
+{"query": "march first", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-01T00:00:00Z", "2013-03-01T23:59:59Z"]]}
+{"query": "the 2nd of march", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-02T00:00:00Z", "2013-03-02T23:59:59Z"]]}
+{"query": "second of march", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-02T00:00:00Z", "2013-03-02T23:59:59Z"]]}
+{"query": "the second of march", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-02T00:00:00Z", "2013-03-02T23:59:59Z"]]}
+{"query": "march 3", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-03T00:00:00Z", "2013-03-03T23:59:59Z"]]}
+{"query": "the third of march", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-03T00:00:00Z", "2013-03-03T23:59:59Z"]]}
+{"query": "the ides of march", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-15T00:00:00Z", "2013-03-15T23:59:59Z"]]}
+{"query": "march 3 2015", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2015-03-03T00:00:00Z", "2015-03-03T23:59:59Z"]]}
+{"query": "march 3rd 2015", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2015-03-03T00:00:00Z", "2015-03-03T23:59:59Z"]]}
+{"query": "march third 2015", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2015-03-03T00:00:00Z", "2015-03-03T23:59:59Z"]]}
+{"query": "3/3/2015", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2015-03-03T00:00:00Z", "2015-03-03T23:59:59Z"]]}
+{"query": "3/3/15", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2015-03-03T00:00:00Z", "2015-03-03T23:59:59Z"]]}
+{"query": "2015-3-3", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2015-03-03T00:00:00Z", "2015-03-03T23:59:59Z"]]}
+{"query": "2015-03-03", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2015-03-03T00:00:00Z", "2015-03-03T23:59:59Z"]]}
+{"query": "on the 15th", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-15T00:00:00Z", "2013-02-15T23:59:59Z"]]}
+{"query": "the 15th of february", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-15T00:00:00Z", "2013-02-15T23:59:59Z"]]}
+{"query": "15 of february", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-15T00:00:00Z", "2013-02-15T23:59:59Z"]]}
+{"query": "february the 15th", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-15T00:00:00Z", "2013-02-15T23:59:59Z"]]}
+{"query": "february 15", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-15T00:00:00Z", "2013-02-15T23:59:59Z"]]}
+{"query": "15th february", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-15T00:00:00Z", "2013-02-15T23:59:59Z"]]}
+{"query": "February 15", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-15T00:00:00Z", "2013-02-15T23:59:59Z"]]}
+{"query": "Aug 8", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-08-08T00:00:00Z", "2013-08-08T23:59:59Z"]]}
+{"query": "March in 1 year", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-03-01T00:00:00Z", "2014-03-31T23:59:59Z"]]}
+{"query": "March in a year", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-03-01T00:00:00Z", "2014-03-31T23:59:59Z"]]}
+{"query": "Fri, Jul 18", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-18T00:00:00Z", "2013-07-18T23:59:59Z"]]}
+{"query": "October 2014", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-10-01T00:00:00Z", "2014-10-31T23:59:59Z"]]}
+{"query": "2014-10", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-10-01T00:00:00Z", "2014-10-31T23:59:59Z"]]}
+{"query": "2014/10", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-10-01T00:00:00Z", "2014-10-31T23:59:59Z"]]}
+{"query": "April 14, 2015", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2015-04-14T00:00:00Z", "2015-04-14T23:59:59Z"]]}
+{"query": "next tuesday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-19T00:00:00Z", "2013-02-19T23:59:59Z"]]}
+{"query": "around next tuesday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-19T00:00:00Z", "2013-02-19T23:59:59Z"]]}
+{"query": "friday after next", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-22T00:00:00Z", "2013-02-22T23:59:59Z"]]}
+{"query": "next March", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-01T00:00:00Z", "2013-03-31T23:59:59Z"]]}
+{"query": "March after next", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-03-01T00:00:00Z", "2014-03-31T23:59:59Z"]]}
+{"query": "Sunday, Feb 10", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-10T00:00:00Z", "2013-02-10T23:59:59Z"]]}
+{"query": "Wed, Feb13", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-13T00:00:00Z", "2013-02-13T23:59:59Z"]]}
+{"query": "this week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-11T00:00:00Z", "2013-02-17T23:59:59Z"]]}
+{"query": "current week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-11T00:00:00Z", "2013-02-17T23:59:59Z"]]}
+{"query": "last week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-04T00:00:00Z", "2013-02-10T23:59:59Z"]]}
+{"query": "past week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-04T00:00:00Z", "2013-02-10T23:59:59Z"]]}
+{"query": "previous week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-04T00:00:00Z", "2013-02-10T23:59:59Z"]]}
+{"query": "next week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-18T00:00:00Z", "2013-02-24T23:59:59Z"]]}
+{"query": "the following week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-18T00:00:00Z", "2013-02-24T23:59:59Z"]]}
+{"query": "around next week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-18T00:00:00Z", "2013-02-24T23:59:59Z"]]}
+{"query": "upcoming week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-18T00:00:00Z", "2013-02-24T23:59:59Z"]]}
+{"query": "coming week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-18T00:00:00Z", "2013-02-24T23:59:59Z"]]}
+{"query": "last month", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-01-01T00:00:00Z", "2013-01-31T23:59:59Z"]]}
+{"query": "next month", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-01T00:00:00Z", "2013-03-31T23:59:59Z"]]}
+{"query": "20th of the next month", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-20T00:00:00Z", "2013-03-20T23:59:59Z"]]}
+{"query": "20th day of next month", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-20T00:00:00Z", "2013-03-20T23:59:59Z"]]}
+{"query": "20th of the current month", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-20T00:00:00Z", "2013-02-20T23:59:59Z"]]}
+{"query": "20th of the previous month", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-01-20T00:00:00Z", "2013-01-20T23:59:59Z"]]}
+{"query": "this quarter", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-01-01T00:00:00Z", "2013-03-31T23:59:59Z"]]}
+{"query": "this qtr", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-01-01T00:00:00Z", "2013-03-31T23:59:59Z"]]}
+{"query": "next quarter", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-04-01T00:00:00Z", "2013-06-30T23:59:59Z"]]}
+{"query": "next qtr", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-04-01T00:00:00Z", "2013-06-30T23:59:59Z"]]}
+{"query": "third quarter", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-01T00:00:00Z", "2013-09-30T23:59:59Z"]]}
+{"query": "3rd quarter", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-01T00:00:00Z", "2013-09-30T23:59:59Z"]]}
+{"query": "third qtr", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-01T00:00:00Z", "2013-09-30T23:59:59Z"]]}
+{"query": "3rd qtr", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-01T00:00:00Z", "2013-09-30T23:59:59Z"]]}
+{"query": "the 3rd qtr", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-01T00:00:00Z", "2013-09-30T23:59:59Z"]]}
+{"query": "4th quarter 2018", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2018-10-01T00:00:00Z", "2018-12-31T23:59:59Z"]]}
+{"query": "4th qtr 2018", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2018-10-01T00:00:00Z", "2018-12-31T23:59:59Z"]]}
+{"query": "the 4th qtr of 2018", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2018-10-01T00:00:00Z", "2018-12-31T23:59:59Z"]]}
+{"query": "last year", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2012-01-01T00:00:00Z", "2012-12-31T23:59:59Z"]]}
+{"query": "last yr", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2012-01-01T00:00:00Z", "2012-12-31T23:59:59Z"]]}
+{"query": "this year", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-01-01T00:00:00Z", "2013-12-31T23:59:59Z"]]}
+{"query": "current year", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-01-01T00:00:00Z", "2013-12-31T23:59:59Z"]]}
+{"query": "this yr", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-01-01T00:00:00Z", "2013-12-31T23:59:59Z"]]}
+{"query": "next year", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-01-01T00:00:00Z", "2014-12-31T23:59:59Z"]]}
+{"query": "next yr", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-01-01T00:00:00Z", "2014-12-31T23:59:59Z"]]}
+{"query": "in 2014 A.D.", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-01-01T00:00:00Z", "2014-12-31T23:59:59Z"]]}
+{"query": "in 2014 AD", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-01-01T00:00:00Z", "2014-12-31T23:59:59Z"]]}
+{"query": "in 2014 B.C.", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["-2014-01-01T00:00:00Z", "-2014-12-31T23:59:59Z"]]}
+{"query": "in 2014 BC", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["-2014-01-01T00:00:00Z", "-2014-12-31T23:59:59Z"]]}
+{"query": "last sunday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-10T00:00:00Z", "2013-02-10T23:59:59Z"]]}
+{"query": "sunday from last week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-10T00:00:00Z", "2013-02-10T23:59:59Z"]]}
+{"query": "last week's sunday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-10T00:00:00Z", "2013-02-10T23:59:59Z"]]}
+{"query": "last tuesday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-05T00:00:00Z", "2013-02-05T23:59:59Z"]]}
+{"query": "next wednesday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-20T00:00:00Z", "2013-02-20T23:59:59Z"]]}
+{"query": "wednesday of next week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-20T00:00:00Z", "2013-02-20T23:59:59Z"]]}
+{"query": "wednesday after next", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-20T00:00:00Z", "2013-02-20T23:59:59Z"]]}
+{"query": "monday of this week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-11T00:00:00Z", "2013-02-11T23:59:59Z"]]}
+{"query": "tuesday of this week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T00:00:00Z", "2013-02-12T23:59:59Z"]]}
+{"query": "wednesday of this week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-13T00:00:00Z", "2013-02-13T23:59:59Z"]]}
+{"query": "the day after tomorrow", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-14T00:00:00Z", "2013-02-14T23:59:59Z"]]}
+{"query": "day after tomorrow 5pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-14T17:00:00Z"]]}
+{"query": "the day before yesterday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-10T00:00:00Z", "2013-02-10T23:59:59Z"]]}
+{"query": "day before yesterday 8am", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-10T08:00:00Z"]]}
+{"query": "last Monday of March", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-25T00:00:00Z", "2013-03-25T23:59:59Z"]]}
+{"query": "last Sunday of March 2014", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-03-30T00:00:00Z", "2014-03-30T23:59:59Z"]]}
+{"query": "third day of october", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-10-03T00:00:00Z", "2013-10-03T23:59:59Z"]]}
+{"query": "first week of october 2014", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-10-01T00:00:00Z", "2014-10-05T23:59:59Z"]]}
+{"query": "third last week of 2018", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2018-12-10T00:00:00Z", "2018-12-16T23:59:59Z"]]}
+{"query": "the third last week of 2018", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2018-12-10T00:00:00Z", "2018-12-16T23:59:59Z"]]}
+{"query": "the 3rd last week of 2018", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2018-12-10T00:00:00Z", "2018-12-16T23:59:59Z"]]}
+{"query": "2nd last week of October 2018", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2018-10-15T00:00:00Z", "2018-10-21T23:59:59Z"]]}
+{"query": "the second last week of October 2018", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2018-10-15T00:00:00Z", "2018-10-21T23:59:59Z"]]}
+{"query": "fifth last day of May", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-05-27T00:00:00Z", "2013-05-27T23:59:59Z"]]}
+{"query": "the 5th last day of May", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-05-27T00:00:00Z", "2013-05-27T23:59:59Z"]]}
+{"query": "last day of october 2015", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2015-10-31T00:00:00Z", "2015-10-31T23:59:59Z"]]}
+{"query": "last day in october 2015", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2015-10-31T00:00:00Z", "2015-10-31T23:59:59Z"]]}
+{"query": "last week of september 2014", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-09-22T00:00:00Z", "2014-09-28T23:59:59Z"]]}
+{"query": "first tuesday of october", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-10-01T00:00:00Z", "2013-10-01T23:59:59Z"]]}
+{"query": "first tuesday in october", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-10-01T00:00:00Z", "2013-10-01T23:59:59Z"]]}
+{"query": "third tuesday of september 2014", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-09-16T00:00:00Z", "2014-09-16T23:59:59Z"]]}
+{"query": "first wednesday of october 2014", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-10-01T00:00:00Z", "2014-10-01T23:59:59Z"]]}
+{"query": "second wednesday of october 2014", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-10-08T00:00:00Z", "2014-10-08T23:59:59Z"]]}
+{"query": "at 3am", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T03:00:00Z"]]}
+{"query": "at 3 AM", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T03:00:00Z"]]}
+{"query": "3 oclock am", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T03:00:00Z"]]}
+{"query": "at three am", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T03:00:00Z"]]}
+{"query": "this morning at 3", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T03:00:00Z"]]}
+{"query": "at 3 in the morning", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T03:00:00Z"]]}
+{"query": "this morning at 10am", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T10:00:00Z"]]}
+{"query": "3:18am", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T03:18:00Z"]]}
+{"query": "3 oclock pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:00:00Z"]]}
+{"query": "3 o'clock in the afternoon", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:00:00Z"]]}
+{"query": "3pm approximately", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:00:00Z"]]}
+{"query": "at about 3pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:00:00Z"]]}
+{"query": "at 15h", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "a quarter past 3pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:15:00Z"]]}
+{"query": "for a quarter past 3pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:15:00Z"]]}
+{"query": "3:15 in the afternoon", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:15:00Z"]]}
+{"query": "15:15", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:15:00Z"]]}
+{"query": "3:15pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:15:00Z"]]}
+{"query": "3:15PM", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:15:00Z"]]}
+{"query": "15 minutes past 3pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:15:00Z"]]}
+{"query": "15 minutes past 15h", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:15:00Z"]]}
+{"query": "at 20 past 3pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:20:00Z"]]}
+{"query": "3:20 in the afternoon", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:20:00Z"]]}
+{"query": "3:20 in afternoon", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:20:00Z"]]}
+{"query": "twenty after 3pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:20:00Z"]]}
+{"query": "20 minutes past 3pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:20:00Z"]]}
+{"query": "this afternoon at 3:20", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:20:00Z"]]}
+{"query": "at half past three pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:30:00Z"]]}
+{"query": "half past 3 pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:30:00Z"]]}
+{"query": "15:30", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:30:00Z"]]}
+{"query": "3:30pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:30:00Z"]]}
+{"query": "3:30PM", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:30:00Z"]]}
+{"query": "30 minutes past 3 pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:30:00Z"]]}
+{"query": "at 15 past noon", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T12:15:00Z"]]}
+{"query": "a quarter past noon", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T12:15:00Z"]]}
+{"query": "for a quarter past noon", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T12:15:00Z"]]}
+{"query": "12:15 in the afternoon", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T12:15:00Z"]]}
+{"query": "12:15", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T12:15:00Z"]]}
+{"query": "12:15pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T12:15:00Z"]]}
+{"query": "12:15PM", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T12:15:00Z"]]}
+{"query": "15 minutes past noon", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T12:15:00Z"]]}
+{"query": "nine fifty nine a m", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T09:59:00Z"]]}
+{"query": "15:23:24", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:23:24Z"]]}
+{"query": "9:01:10 AM", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T09:01:10Z"]]}
+{"query": "a quarter to noon", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T11:45:00Z"]]}
+{"query": "11:45am", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T11:45:00Z"]]}
+{"query": "a quarter past 1pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T13:15:00Z"]]}
+{"query": "for a quarter past 1pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T13:15:00Z"]]}
+{"query": "1:15pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T13:15:00Z"]]}
+{"query": "15 minutes from 1pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T13:15:00Z"]]}
+{"query": "a quarter past 2pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T14:15:00Z"]]}
+{"query": "for a quarter past 2pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T14:15:00Z"]]}
+{"query": "a quarter past 8pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T20:15:00Z"]]}
+{"query": "for a quarter past 8pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T20:15:00Z"]]}
+{"query": "tonight at 8 o'clock", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T20:00:00Z"]]}
+{"query": "in the evening at eight", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T20:00:00Z"]]}
+{"query": "at 9am on Saturday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-16T09:00:00Z"]]}
+{"query": "Saturday morning at 9", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-16T09:00:00Z"]]}
+{"query": "on Saturday for 9am", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-16T09:00:00Z"]]}
+{"query": "in a sec", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:01Z"]]}
+{"query": "one second from now", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:01Z"]]}
+{"query": "in a minute", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:31:00Z"]]}
+{"query": "in one minute", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:31:00Z"]]}
+{"query": "in 2 minutes", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:32:00Z"]]}
+{"query": "in 2 more minutes", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:32:00Z"]]}
+{"query": "2 minutes from now", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:32:00Z"]]}
+{"query": "in a couple of minutes", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:32:00Z"]]}
+{"query": "in a pair of minutes", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:32:00Z"]]}
+{"query": "in three minutes", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:33:00Z"]]}
+{"query": "in a few minutes", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:33:00Z"]]}
+{"query": "in 60 minutes", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T05:30:00Z"]]}
+{"query": "in a quarter of an hour", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:45:00Z"]]}
+{"query": "in half an hour", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T05:00:00Z"]]}
+{"query": "in three-quarters of an hour", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T05:15:00Z"]]}
+{"query": "in 2.5 hours", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T07:00:00Z"]]}
+{"query": "in 2 and an half hours", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T07:00:00Z"]]}
+{"query": "in one hour", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T05:30:00Z"]]}
+{"query": "in a couple hours", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T06:30:00Z"]]}
+{"query": "in a couple of hours", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T06:30:00Z"]]}
+{"query": "in a few hours", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T07:30:00Z"]]}
+{"query": "in few hours", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T07:30:00Z"]]}
+{"query": "in 24 hours", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-13T04:30:00Z"]]}
+{"query": "in a day", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-13T00:00:00Z","2013-02-13T23:59:59Z"]]}
+{"query": "a day from now", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-13T00:00:00Z","2013-02-13T23:59:59Z"]]}
+{"query": "a day from right now", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-13T00:00:00Z","2013-02-13T23:59:59Z"]]}
+{"query": "3 years from today", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2016-02-12T00:00:00Z", "2016-02-12T23:59:59Z"]]}
+{"query": "3 fridays from now", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-01T00:00:00Z", "2013-03-01T23:59:59Z"]]}
+{"query": "three fridays from now", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-01T00:00:00Z", "2013-03-01T23:59:59Z"]]}
+{"query": "2 sundays from now", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-24T00:00:00Z", "2013-02-24T23:59:59Z"]]}
+{"query": "two sundays from now", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-24T00:00:00Z", "2013-02-24T23:59:59Z"]]}
+{"query": "4 tuesdays from now", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-12T00:00:00Z", "2013-03-12T23:59:59Z"]]}
+{"query": "four tuesdays from now", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-12T00:00:00Z", "2013-03-12T23:59:59Z"]]}
+{"query": "in 7 days", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-19T00:00:00Z","2013-02-19T23:59:59Z"]]}
+{"query": "in 7 days at 5pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-19T17:00:00Z"]]}
+{"query": "in 1 week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-19T00:00:00Z", "2013-02-19T23:59:59Z"]]}
+{"query": "in a week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-19T00:00:00Z", "2013-02-19T23:59:59Z"]]}
+{"query": "in about half an hour", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T05:00:00Z"]]}
+{"query": "7 days ago", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-05T00:00:00Z","2013-02-05T23:59:59Z"]]}
+{"query": "14 days ago", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-01-29T00:00:00Z","2013-01-29T23:59:59Z"]]}
+{"query": "a fortnight ago", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-01-29T00:00:00Z","2013-01-29T23:59:59Z"]]}
+{"query": "a week ago", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-05T00:00:00Z", "2013-02-05T23:59:59Z"]]}
+{"query": "one week ago", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-05T00:00:00Z", "2013-02-05T23:59:59Z"]]}
+{"query": "1 week ago", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-05T00:00:00Z", "2013-02-05T23:59:59Z"]]}
+{"query": "2 thursdays back", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-01-31T00:00:00Z", "2013-01-31T23:59:59Z"]]}
+{"query": "2 thursdays ago", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-01-31T00:00:00Z", "2013-01-31T23:59:59Z"]]}
+{"query": "three weeks ago", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-01-22T00:00:00Z", "2013-01-22T23:59:59Z"]]}
+{"query": "three months ago", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2012-11-12T00:00:00Z", "2012-11-12T23:59:59Z"]]}
+{"query": "the first Monday of this month", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-04T00:00:00Z", "2013-02-04T23:59:59Z"]]}
+{"query": "the first Monday of the month", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-04T00:00:00Z", "2013-02-04T23:59:59Z"]]}
+{"query": "the first Monday in this month", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-04T00:00:00Z", "2013-02-04T23:59:59Z"]]}
+{"query": "first Monday in the month", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-04T00:00:00Z", "2013-02-04T23:59:59Z"]]}
+{"query": "two years ago", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2011-02-12T00:00:00Z", "2011-02-12T23:59:59Z"]]}
+{"query": "7 days hence", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-19T00:00:00Z","2013-02-19T23:59:59Z"]]}
+{"query": "14 days hence", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-26T00:00:00Z","2013-02-26T23:59:59Z"]]}
+{"query": "a fortnight hence", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-26T00:00:00Z","2013-02-26T23:59:59Z"]]}
+{"query": "a week hence", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-19T00:00:00Z", "2013-02-19T23:59:59Z"]]}
+{"query": "one week hence", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-19T00:00:00Z", "2013-02-19T23:59:59Z"]]}
+{"query": "1 week hence", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-19T00:00:00Z", "2013-02-19T23:59:59Z"]]}
+{"query": "three weeks hence", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-05T00:00:00Z", "2013-03-05T23:59:59Z"]]}
+{"query": "three months hence", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-05-12T00:00:00Z", "2013-05-12T23:59:59Z"]]}
+{"query": "two years hence", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2015-02-12T00:00:00Z", "2015-02-12T23:59:59Z"]]}
+{"query": "one year After christmas", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-12-25T00:00:00Z", "2014-12-25T23:59:59Z"]]}
+{"query": "a year from Christmas", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-12-25T00:00:00Z", "2014-12-25T23:59:59Z"]]}
+{"query": "for 10 days from 18th Dec", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-12-18T00:00:00Z", "2013-12-28T23:59:59Z"]]}
+{"query": "from 18th Dec for 10 days", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-12-18T00:00:00Z", "2013-12-28T23:59:59Z"]]}
+{"query": "for 30 minutes from 4pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T16:00:00Z", "2013-02-12T16:30:00Z"]]}
+{"query": "from 4pm for thirty minutes", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T16:00:00Z", "2013-02-12T16:30:00Z"]]}
+{"query": "4pm for 30 mins", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T16:00:00Z", "2013-02-12T16:30:00Z"]]}
+{"query": "this Summer", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-06-21T00:00:00Z", "2013-09-22T23:59:59Z"]]}
+{"query": "current summer", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-06-21T00:00:00Z", "2013-09-22T23:59:59Z"]]}
+{"query": "this winter", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-12-22T00:00:00Z", "2014-03-19T23:59:59Z"]]}
+{"query": "this season", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2012-12-21T00:00:00Z", "2013-03-19T23:59:59Z"]]}
+{"query": "current season", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2012-12-21T00:00:00Z", "2013-03-19T23:59:59Z"]]}
+{"query": "last season", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2012-09-22T00:00:00Z", "2012-12-20T23:59:59Z"]]}
+{"query": "past season", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2012-09-22T00:00:00Z", "2012-12-20T23:59:59Z"]]}
+{"query": "previous season", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2012-09-22T00:00:00Z", "2012-12-20T23:59:59Z"]]}
+{"query": "next season", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-20T00:00:00Z", "2013-06-20T23:59:59Z"]]}
+{"query": "last night", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-11T18:00:00Z", "2013-02-11T23:59:59Z"]]}
+{"query": "yesterday evening", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-11T18:00:00Z", "2013-02-11T23:59:59Z"]]}
+{"query": "late last night", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-11T18:00:00Z", "2013-02-11T23:59:59Z"]]}
+{"query": "xmas", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-12-25T00:00:00Z", "2013-12-25T23:59:59Z"]]}
+{"query": "christmas", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-12-25T00:00:00Z", "2013-12-25T23:59:59Z"]]}
+{"query": "christmas day", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-12-25T00:00:00Z", "2013-12-25T23:59:59Z"]]}
+{"query": "xmas at 6 pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-12-25T18:00:00Z"]]}
+{"query": "morning of xmas", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-12-25T06:00:00Z", "2013-12-25T12:00:00Z"]]}
+{"query": "morning of christmas 2013", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-12-25T06:00:00Z", "2013-12-25T12:00:00Z"]]}
+{"query": "morning of this christmas day", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-12-25T06:00:00Z", "2013-12-25T12:00:00Z"]]}
+{"query": "new year's eve", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-12-31T00:00:00Z", "2013-12-31T23:59:59Z"]]}
+{"query": "new years eve", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-12-31T00:00:00Z", "2013-12-31T23:59:59Z"]]}
+{"query": "new year's day", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-01-01T00:00:00Z", "2013-01-01T23:59:59Z"]]}
+{"query": "valentine's day", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-14T00:00:00Z", "2013-02-14T23:59:59Z"]]}
+{"query": "valentine day", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-14T00:00:00Z", "2013-02-14T23:59:59Z"]]}
+{"query": "4th of July", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-04T00:00:00Z", "2013-07-04T23:59:59Z"]]}
+{"query": "halloween", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-10-31T00:00:00Z", "2013-10-31T23:59:59Z"]]}
+{"query": "next halloween", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-10-31T00:00:00Z", "2014-10-31T23:59:59Z"]]}
+{"query": "Halloween 2013", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-10-31T00:00:00Z", "2013-10-31T23:59:59Z"]]}
+{"query": "black friday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-11-29T00:00:00Z", "2013-11-29T23:59:59Z"]]}
+{"query": "black friday of this year", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-11-29T00:00:00Z", "2013-11-29T23:59:59Z"]]}
+{"query": "black friday 2013", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-11-29T00:00:00Z", "2013-11-29T23:59:59Z"]]}
+{"query": "black friday 2017", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2017-11-24T00:00:00Z", "2017-11-24T23:59:59Z"]]}
+{"query": "boss's day", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-10-16T00:00:00Z", "2013-10-16T23:59:59Z"]]}
+{"query": "boss's day 2016", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2016-10-17T00:00:00Z", "2016-10-17T23:59:59Z"]]}
+{"query": "boss's day 2021", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2021-10-15T00:00:00Z", "2021-10-15T23:59:59Z"]]}
+{"query": "MLK day", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-01-21T00:00:00Z", "2013-01-21T23:59:59Z"]]}
+{"query": "next Martin Luther King day", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-01-20T00:00:00Z", "2014-01-20T23:59:59Z"]]}
+{"query": "next Martin Luther King's day", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-01-20T00:00:00Z", "2014-01-20T23:59:59Z"]]}
+{"query": "next Martin Luther Kings day", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-01-20T00:00:00Z", "2014-01-20T23:59:59Z"]]}
+{"query": "this MLK day", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-01-21T00:00:00Z", "2013-01-21T23:59:59Z"]]}
+{"query": "last MLK Jr. day", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2012-01-16T00:00:00Z", "2012-01-16T23:59:59Z"]]}
+{"query": "MLK day 2013", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-01-21T00:00:00Z", "2013-01-21T23:59:59Z"]]}
+{"query": "MLK day of last year", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2012-01-16T00:00:00Z", "2012-01-16T23:59:59Z"]]}
+{"query": "MLK day 2012", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2012-01-16T00:00:00Z", "2012-01-16T23:59:59Z"]]}
+{"query": "Civil Rights Day of last year", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2012-01-16T00:00:00Z", "2012-01-16T23:59:59Z"]]}
+{"query": "world vegan day", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-11-01T00:00:00Z", "2013-11-01T23:59:59Z"]]}
+{"query": "easter", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-31T00:00:00Z", "2013-03-31T23:59:59Z"]]}
+{"query": "easter 2013", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-31T00:00:00Z", "2013-03-31T23:59:59Z"]]}
+{"query": "last easter", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2012-04-08T00:00:00Z", "2012-04-08T23:59:59Z"]]}
+{"query": "easter mon", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-04-01T00:00:00Z", "2013-04-01T23:59:59Z"]]}
+{"query": "easter 2010", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2010-04-04T00:00:00Z", "2010-04-04T23:59:59Z"]]}
+{"query": "three days after Easter", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-04-03T00:00:00Z", "2013-04-03T23:59:59Z"]]}
+{"query": "Maundy Thursday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-28T00:00:00Z", "2013-03-28T23:59:59Z"]]}
+{"query": "Covenant thu", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-28T00:00:00Z", "2013-03-28T23:59:59Z"]]}
+{"query": "Thu of Mysteries", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-28T00:00:00Z", "2013-03-28T23:59:59Z"]]}
+{"query": "Pentecost", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-05-19T00:00:00Z", "2013-05-19T23:59:59Z"]]}
+{"query": "white sunday 2013", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-05-19T00:00:00Z", "2013-05-19T23:59:59Z"]]}
+{"query": "Monday of the Holy Spirit", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-05-20T00:00:00Z", "2013-05-20T23:59:59Z"]]}
+{"query": "palm sunday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-24T00:00:00Z", "2013-03-24T23:59:59Z"]]}
+{"query": "branch sunday 2013", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-24T00:00:00Z", "2013-03-24T23:59:59Z"]]}
+{"query": "trinity sunday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-05-26T00:00:00Z", "2013-05-26T23:59:59Z"]]}
+{"query": "pancake day 2013", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T00:00:00Z", "2013-02-12T23:59:59Z"]]}
+{"query": "mardi gras", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T00:00:00Z", "2013-02-12T23:59:59Z"]]}
+{"query": "st patrick's day 2013", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-17T00:00:00Z", "2013-03-17T23:59:59Z"]]}
+{"query": "st paddy's day", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-17T00:00:00Z", "2013-03-17T23:59:59Z"]]}
+{"query": "saint paddy's day", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-17T00:00:00Z", "2013-03-17T23:59:59Z"]]}
+{"query": "saint patricks day", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-17T00:00:00Z", "2013-03-17T23:59:59Z"]]}
+{"query": "orthodox easter 2018", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2018-04-08T00:00:00Z", "2018-04-08T23:59:59Z"]]}
+{"query": "orthodox good friday 2020", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2020-04-17T00:00:00Z", "2020-04-17T23:59:59Z"]]}
+{"query": "orthodox great friday 2020", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2020-04-17T00:00:00Z", "2020-04-17T23:59:59Z"]]}
+{"query": "clean monday 2018", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2018-02-19T00:00:00Z", "2018-02-19T23:59:59Z"]]}
+{"query": "lazarus saturday 2018", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2018-03-31T00:00:00Z", "2018-03-31T23:59:59Z"]]}
+{"query": "great fast 2018", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2018-02-19T00:00:00Z", "2018-04-07T23:59:59Z"]]}
+{"query": "this evening", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T18:00:00Z", "2013-02-12T23:59:59Z"]]}
+{"query": "today evening", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T18:00:00Z", "2013-02-12T23:59:59Z"]]}
+{"query": "tonight", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T18:00:00Z", "2013-02-12T23:59:59Z"]]}
+{"query": "this past weekend", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-09T00:00:00Z", "2013-02-10T23:59:59Z"]]}
+{"query": "tomorrow evening", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-13T18:00:00Z", "2013-02-13T23:59:59Z"]]}
+{"query": "monday morning", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-11T06:00:00Z", "2013-02-11T12:00:00Z"]]}
+{"query": "monday early in the morning", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-11T06:00:00Z", "2013-02-11T09:00:00Z"]]}
+{"query": "monday early morning", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-11T06:00:00Z", "2013-02-11T09:00:00Z"]]}
+{"query": "monday in the early hours of the morning", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-18T06:00:00Z", "2013-02-18T09:00:00Z"]]}
+{"query": "late tonight", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T21:00:00Z", "2013-02-13T00:00:00Z"]]}
+{"query": "february the 15th in the morning", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-15T06:00:00Z", "2013-02-15T12:00:00Z"]]}
+{"query": "15 of february in the morning", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-15T06:00:00Z", "2013-02-15T12:00:00Z"]]}
+{"query": "morning of the 15th of february", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-15T06:00:00Z", "2013-02-15T12:00:00Z"]]}
+{"query": "last 2 seconds", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:29:58Z", "2013-02-12T04:30:00Z"]]}
+{"query": "last two seconds", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:29:58Z", "2013-02-12T04:30:00Z"]]}
+{"query": "next 3 seconds", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-02-12T04:30:03Z"]]}
+{"query": "next three seconds", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-02-12T04:30:03Z"]]}
+{"query": "last 2 minutes", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:28:00Z", "2013-02-12T04:30:00Z"]]}
+{"query": "last two minutes", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:28:00Z", "2013-02-12T04:30:00Z"]]}
+{"query": "next 3 minutes", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-02-12T04:33:00Z"]]}
+{"query": "next three minutes", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-02-12T04:33:00Z"]]}
+{"query": "last 1 hour", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T03:30:00Z", "2013-02-12T04:30:00Z"]]}
+{"query": "last one hour", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T03:30:00Z", "2013-02-12T04:30:00Z"]]}
+{"query": "next 3 hours", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-02-12T07:30:00Z"]]}
+{"query": "next three hours", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-02-12T07:30:00Z"]]}
+{"query": "last 2 days", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-10T04:30:00Z", "2013-02-12T04:30:00Z"]]}
+{"query": "last two days", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-10T04:30:00Z", "2013-02-12T04:30:00Z"]]}
+{"query": "past 2 days", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-10T04:30:00Z", "2013-02-12T04:30:00Z"]]}
+{"query": "next 3 days", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-02-15T04:30:00Z"]]}
+{"query": "next three days", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-02-15T04:30:00Z"]]}
+{"query": "next few days", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-02-15T04:30:00Z"]]}
+{"query": "last 2 weeks", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-01-29T04:30:00Z", "2013-02-12T04:30:00Z"]]}
+{"query": "last two weeks", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-01-29T04:30:00Z", "2013-02-12T04:30:00Z"]]}
+{"query": "past 2 weeks", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-01-29T04:30:00Z", "2013-02-12T04:30:00Z"]]}
+{"query": "next 3 weeks", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-03-05T04:30:00Z"]]}
+{"query": "next three weeks", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-03-05T04:30:00Z"]]}
+{"query": "last 2 months", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2012-12-12T04:30:00Z", "2013-02-12T04:30:00Z"]]}
+{"query": "last two months", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2012-12-12T04:30:00Z", "2013-02-12T04:30:00Z"]]}
+{"query": "next 3 months", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-05-12T04:30:00Z"]]}
+{"query": "next three months", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-05-12T04:30:00Z"]]}
+{"query": "last 2 years", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2011-02-12T04:30:00Z", "2013-02-12T04:30:00Z"]]}
+{"query": "last two years", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2011-02-12T04:30:00Z", "2013-02-12T04:30:00Z"]]}
+{"query": "next 3 years", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2016-02-12T04:30:00Z"]]}
+{"query": "next three years", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2016-02-12T04:30:00Z"]]}
+{"query": "July 13-15", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "July 13 to 15", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "July 13 thru 15", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "July 13 through 15", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "July 13 - July 15", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "from July 13-15", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "from 13 to 15 July", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "from 13th to 15th July", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "from the 13 to 15 July", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "from the 13th to 15th July", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "from the 13th to the 15th July", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "from the 13 to the 15 July", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "from 13 to 15 of July", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "from 13th to 15 of July", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "from 13 to 15th of July", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "from 13th to 15th of July", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "from 13 to the 15 of July", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "from 13th to the 15 of July", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "from 13 to the 15th of July", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "from 13th to the 15th of July", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "from the 13 to the 15 of July", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "from the 13th to the 15 of July", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "from the 13 to the 15th of July", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "from the 13th to the 15th of July", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-07-13T00:00:00Z", "2013-07-15T23:59:59Z"]]}
+{"query": "Aug 8 - Aug 12", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-08-08T00:00:00Z", "2013-08-12T23:59:59Z"]]}
+{"query": "9:30 - 11:00", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T09:30:00Z", "2013-02-12T11:00:00Z"]]}
+{"query": "2/15", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-15T00:00:00Z", "2013-02-15T23:59:59Z"]]}
+{"query": "on 2/15", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-15T00:00:00Z", "2013-02-15T23:59:59Z"]]}
+{"query": "2 / 15", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-15T00:00:00Z", "2013-02-15T23:59:59Z"]]}
+{"query": "2-15", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-15T00:00:00Z", "2013-02-15T23:59:59Z"]]}
+{"query": "2 - 15", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-15T00:00:00Z", "2013-02-15T23:59:59Z"]]}
+{"query": "10/31/1974", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["1974-10-31T00:00:00Z", "1974-10-31T23:59:59Z"]]}
+{"query": "10/31/74", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["1974-10-31T00:00:00Z", "1974-10-31T23:59:59Z"]]}
+{"query": "10-31-74", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["1974-10-31T00:00:00Z", "1974-10-31T23:59:59Z"]]}
+{"query": "10.31.1974", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["1974-10-31T00:00:00Z", "1974-10-31T23:59:59Z"]]}
+{"query": "31/Oct/1974", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["1974-10-31T00:00:00Z", "1974-10-31T23:59:59Z"]]}
+{"query": "31-Oct-74", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["1974-10-31T00:00:00Z", "1974-10-31T23:59:59Z"]]}
+{"query": "31st Oct 1974", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["1974-10-31T00:00:00Z", "1974-10-31T23:59:59Z"]]}
+{"query": "4/25 at 4:00pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-04-25T16:00:00Z"]]}
+{"query": "4/25 at 16h00", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-04-25T16:00:00Z"]]}
+{"query": "thanksgiving day", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-11-28T00:00:00Z", "2013-11-28T23:59:59Z"]]}
+{"query": "thanksgiving", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-11-28T00:00:00Z", "2013-11-28T23:59:59Z"]]}
+{"query": "thanksgiving 2013", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-11-28T00:00:00Z", "2013-11-28T23:59:59Z"]]}
+{"query": "this thanksgiving", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-11-28T00:00:00Z", "2013-11-28T23:59:59Z"]]}
+{"query": "next thanksgiving day", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-11-27T00:00:00Z", "2014-11-27T23:59:59Z"]]}
+{"query": "thanksgiving of next year", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-11-27T00:00:00Z", "2014-11-27T23:59:59Z"]]}
+{"query": "thanksgiving in a year", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-11-27T00:00:00Z", "2014-11-27T23:59:59Z"]]}
+{"query": "thanksgiving 2014", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2014-11-27T00:00:00Z", "2014-11-27T23:59:59Z"]]}
+{"query": "last thanksgiving", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2012-11-22T00:00:00Z", "2012-11-22T23:59:59Z"]]}
+{"query": "thanksgiving day 2012", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2012-11-22T00:00:00Z", "2012-11-22T23:59:59Z"]]}
+{"query": "thanksgiving 2016", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2016-11-24T00:00:00Z", "2016-11-24T23:59:59Z"]]}
+{"query": "thanksgiving in 3 years", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2016-11-24T00:00:00Z", "2016-11-24T23:59:59Z"]]}
+{"query": "thanksgiving 2017", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2017-11-23T00:00:00Z", "2017-11-23T23:59:59Z"]]}
+{"query": "2015-03-28 17:00:00/2015-03-29 21:00:00", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2015-03-28T17:00:00Z"], ["2015-03-29T21:00:00Z"]]}
+{"query": "from 9:30 - 11:00 on Thursday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-14T09:30:00Z", "2013-02-14T11:00:00Z"]]}
+{"query": "between 9:30 and 11:00 on thursday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-14T09:30:00Z", "2013-02-14T11:00:00Z"]]}
+{"query": "between 9h30 and 11h00 on thursday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-14T09:30:00Z", "2013-02-14T11:00:00Z"]]}
+{"query": "9:30 - 11:00 on Thursday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-14T09:30:00Z", "2013-02-14T11:00:00Z"]]}
+{"query": "9h30 - 11h00 on Thursday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-14T09:30:00Z", "2013-02-14T11:00:00Z"]]}
+{"query": "later than 9:30 but before 11:00 on Thursday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-14T09:30:00Z", "2013-02-14T11:00:00Z"]]}
+{"query": "Thursday from 9:30 to 11:00", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-14T09:30:00Z", "2013-02-14T11:00:00Z"]]}
+{"query": "9:30 till 11:00 on Thursday", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-14T09:30:00Z", "2013-02-14T11:00:00Z"]]}
+{"query": "3-4pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:00:00Z", "2013-02-12T16:00:00Z"]]}
+{"query": "around 3-4pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:00:00Z", "2013-02-12T16:00:00Z"]]}
+{"query": "3:30 to 6 PM", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:30:00Z", "2013-02-12T18:00:00Z"]]}
+{"query": "3:30-6 p.m.", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:30:00Z", "2013-02-12T18:00:00Z"]]}
+{"query": "3:30-6:00pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:30:00Z", "2013-02-12T18:00:00Z"]]}
+{"query": "from 3:30 to six p.m.", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:30:00Z", "2013-02-12T18:00:00Z"]]}
+{"query": "from 3:30 to 6:00pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:30:00Z", "2013-02-12T18:00:00Z"]]}
+{"query": "later than 3:30pm but before 6pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:30:00Z", "2013-02-12T18:00:00Z"]]}
+{"query": "between 3:30pm and 6 pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:30:00Z", "2013-02-12T18:00:00Z"]]}
+{"query": "3pm - 6:00:00pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T15:00:00Z", "2013-02-12T18:00:00Z"]]}
+{"query": "8am - 1pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T08:00:00Z", "2013-02-12T13:00:00Z"]]}
+{"query": "this Thu 9-11am", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-14T09:00:00Z", "2013-02-14T11:00:00Z"]]}
+{"query": "Within 2 weeks", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-02-26T04:30:00Z"]]}
+{"query": "by 2:00pm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-02-12T14:00:00Z"]]}
+{"query": "by EOD", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-02-12T23:59:59Z"]]}
+{"query": "by EOM", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-02-21T00:00:00Z"]]}
+{"query": "by the EOM", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-02-21T00:00:00Z"]]}
+{"query": "by end of the month", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-02-21T00:00:00Z"]]}
+{"query": "by the end of month", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-02-21T00:00:00Z"]]}
+{"query": "EOM", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-21T00:00:00Z", "2013-02-28T23:59:59Z"]]}
+{"query": "the EOM", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-21T00:00:00Z", "2013-02-28T23:59:59Z"]]}
+{"query": "at the EOM", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-21T00:00:00Z", "2013-02-28T23:59:59Z"]]}
+{"query": "the end of the month", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-21T00:00:00Z", "2013-02-28T23:59:59Z"]]}
+{"query": "end of the month", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-21T00:00:00Z", "2013-02-28T23:59:59Z"]]}
+{"query": "at the end of month", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-21T00:00:00Z", "2013-02-28T23:59:59Z"]]}
+{"query": "BOM", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-01T00:00:00Z", "2013-02-10T23:59:59Z"]]}
+{"query": "the BOM", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-01T00:00:00Z", "2013-02-10T23:59:59Z"]]}
+{"query": "at the BOM", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-01T00:00:00Z", "2013-02-10T23:59:59Z"]]}
+{"query": "beginning of the month", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-01T00:00:00Z", "2013-02-10T23:59:59Z"]]}
+{"query": "the beginning of the month", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-01T00:00:00Z", "2013-02-10T23:59:59Z"]]}
+{"query": "at the beginning of month", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-01T00:00:00Z", "2013-02-10T23:59:59Z"]]}
+{"query": "by the end of next month", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-03-21T00:00:00Z"]]}
+{"query": "in the afternoon", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T13:00:00Z", "2013-02-12T18:00:00Z"]]}
+{"query": "this morning", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T06:00:00Z", "2013-02-12T12:00:00Z"]]}
+{"query": "tomorrow afternoon", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-13T13:00:00Z", "2013-02-13T18:00:00Z"]]}
+{"query": "1pm-2pm tomorrow", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-13T13:00:00Z", "2013-02-13T14:00:00Z"]]}
+{"query": "early March", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-01T00:00:00Z", "2013-03-10T23:59:59Z"]]}
+{"query": "mid March", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-11T00:00:00Z", "2013-03-20T23:59:59Z"]]}
+{"query": "late March", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-03-21T00:00:00Z", "2013-03-31T23:59:59Z"]]}
+{"query": "last weekend of October", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-10-26T00:00:00Z", "2013-10-27T23:59:59Z"]]}
+{"query": "all week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-11T00:00:00Z", "2013-02-17T23:59:59Z"]]}
+{"query": "rest of the week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-02-17T23:59:59Z"]]}
+{"query": "last weekend of October 2017", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2017-10-28T00:00:00Z", "2017-10-29T23:59:59Z"]]}
+{"query": "August 27th - 29th", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-08-27T00:00:00Z", "2013-08-29T23:59:59Z"]]}
+{"query": "from August 27th - 29th", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-08-27T00:00:00Z", "2013-08-29T23:59:59Z"]]}
+{"query": "23rd to 26th Oct", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-10-23T00:00:00Z", "2013-10-26T23:59:59Z"]]}
+{"query": "12 to 16 september", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-09-12T00:00:00Z", "2013-09-16T23:59:59Z"]]}
+{"query": "19th To 21st aug", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-08-19T00:00:00Z", "2013-08-21T23:59:59Z"]]}
+{"query": "end of April", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-04-21T00:00:00Z", "2013-04-30T23:59:59Z"]]}
+{"query": "at the end of April", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-04-21T00:00:00Z", "2013-04-30T23:59:59Z"]]}
+{"query": "beginning of January", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-01-01T00:00:00Z", "2013-01-10T23:59:59Z"]]}
+{"query": "at the beginning of January", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-01-01T00:00:00Z", "2013-01-10T23:59:59Z"]]}
+{"query": "end of 2012", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2012-11-01T00:00:00Z", "2012-12-31T23:59:59Z"]]}
+{"query": "at the end of 2012", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2012-11-01T00:00:00Z", "2012-12-31T23:59:59Z"]]}
+{"query": "beginning of 2017", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2017-01-01T00:00:00Z", "2017-02-28T23:59:59Z"]]}
+{"query": "at the beginning of 2017", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2017-01-01T00:00:00Z", "2017-02-28T23:59:59Z"]]}
+{"query": "beginning of year", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-01-01T00:00:00Z", "2013-02-28T23:59:59Z"]]}
+{"query": "the beginning of the year", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-01-01T00:00:00Z", "2013-02-28T23:59:59Z"]]}
+{"query": "by EOY", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-11-01T00:00:00Z"]]}
+{"query": "by the EOY", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-11-01T00:00:00Z"]]}
+{"query": "by end of the year", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-11-01T00:00:00Z"]]}
+{"query": "by the end of year", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-12T04:30:00Z", "2013-11-01T00:00:00Z"]]}
+{"query": "EOY", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-11-01T00:00:00Z", "2013-12-31T23:59:59Z"]]}
+{"query": "the EOY", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-11-01T00:00:00Z", "2013-12-31T23:59:59Z"]]}
+{"query": "at the EOY", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-11-01T00:00:00Z", "2013-12-31T23:59:59Z"]]}
+{"query": "the end of the year", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-11-01T00:00:00Z", "2013-12-31T23:59:59Z"]]}
+{"query": "end of the year", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-11-01T00:00:00Z", "2013-12-31T23:59:59Z"]]}
+{"query": "at the end of year", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-11-01T00:00:00Z", "2013-12-31T23:59:59Z"]]}
+{"query": "beginning of this week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-11T00:00:00Z", "2013-02-12T23:59:59Z"]]}
+{"query": "beginning of current week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-11T00:00:00Z", "2013-02-12T23:59:59Z"]]}
+{"query": "at the beginning of this week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-11T00:00:00Z", "2013-02-12T23:59:59Z"]]}
+{"query": "at the beginning of current week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-11T00:00:00Z", "2013-02-12T23:59:59Z"]]}
+{"query": "beginning of coming week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-18T00:00:00Z", "2013-02-19T23:59:59Z"]]}
+{"query": "at the beginning of coming week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-18T00:00:00Z", "2013-02-19T23:59:59Z"]]}
+{"query": "beginning of last week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-04T00:00:00Z", "2013-02-05T23:59:59Z"]]}
+{"query": "beginning of past week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-04T00:00:00Z", "2013-02-05T23:59:59Z"]]}
+{"query": "beginning of previous week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-04T00:00:00Z", "2013-02-05T23:59:59Z"]]}
+{"query": "at the beginning of last week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-04T00:00:00Z", "2013-02-05T23:59:59Z"]]}
+{"query": "at the beginning of past week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-04T00:00:00Z", "2013-02-05T23:59:59Z"]]}
+{"query": "at the beginning of previous week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-04T00:00:00Z", "2013-02-05T23:59:59Z"]]}
+{"query": "beginning of next week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-18T00:00:00Z", "2013-02-19T23:59:59Z"]]}
+{"query": "beginning of the following week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-18T00:00:00Z", "2013-02-19T23:59:59Z"]]}
+{"query": "beginning of around next week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-18T00:00:00Z", "2013-02-19T23:59:59Z"]]}
+{"query": "at the beginning of next week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-18T00:00:00Z", "2013-02-19T23:59:59Z"]]}
+{"query": "at the beginning of the following week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-18T00:00:00Z", "2013-02-19T23:59:59Z"]]}
+{"query": "at the beginning of around next week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-18T00:00:00Z", "2013-02-19T23:59:59Z"]]}
+{"query": "end of this week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-16T00:00:00Z", "2013-02-17T23:59:59Z"]]}
+{"query": "end of current week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-16T00:00:00Z", "2013-02-17T23:59:59Z"]]}
+{"query": "at the end of this week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-16T00:00:00Z", "2013-02-17T23:59:59Z"]]}
+{"query": "at the end of current week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-16T00:00:00Z", "2013-02-17T23:59:59Z"]]}
+{"query": "end of coming week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-23T00:00:00Z", "2013-02-24T23:59:59Z"]]}
+{"query": "at the end of coming week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-23T00:00:00Z", "2013-02-24T23:59:59Z"]]}
+{"query": "end of last week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-09T00:00:00Z", "2013-02-10T23:59:59Z"]]}
+{"query": "end of past week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-09T00:00:00Z", "2013-02-10T23:59:59Z"]]}
+{"query": "end of previous week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-09T00:00:00Z", "2013-02-10T23:59:59Z"]]}
+{"query": "at the end of last week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-09T00:00:00Z", "2013-02-10T23:59:59Z"]]}
+{"query": "at the end of past week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-09T00:00:00Z", "2013-02-10T23:59:59Z"]]}
+{"query": "at the end of previous week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-09T00:00:00Z", "2013-02-10T23:59:59Z"]]}
+{"query": "end of next week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-23T00:00:00Z", "2013-02-24T23:59:59Z"]]}
+{"query": "end of the following week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-23T00:00:00Z", "2013-02-24T23:59:59Z"]]}
+{"query": "end of around next week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-23T00:00:00Z", "2013-02-24T23:59:59Z"]]}
+{"query": "at the end of next week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-23T00:00:00Z", "2013-02-24T23:59:59Z"]]}
+{"query": "at the end of the following week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-23T00:00:00Z", "2013-02-24T23:59:59Z"]]}
+{"query": "at the end of around next week", "metadata": "2013-02-12T04:30:00Z", "datetime_result": [["2013-02-23T00:00:00Z", "2013-02-24T23:59:59Z"]]}
+{"query": "laughing out loud", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "1 adult", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "we are separated", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "25", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "this is the one", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "this one", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "this past one", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "at single", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "at a couple of", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "at pairs", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "at a few", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "at dozens", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "single o'clock", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "dozens o'clock", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "Rat 6", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "rat 6", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "3 30", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "three twenty", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "at 650.650.6500", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "at 650-650-6500", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "two sixty a m", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "Pay ABC 2000", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "4a", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "4a.", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "A4 A5", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "palm", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "Martin Luther King' day", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}
+{"query": "two three", "metadata": "2013-02-12T04:30:00Z", "datetime_result": []}

@@ -1,0 +1,233 @@
+{
+    "normal": {
+        "new_year": {
+            "start_time": "2026-01-01",
+            "end_time": "2026-01-01"
+        },
+        "arbor_day": {
+            "start_time": "2026-03-12",
+            "end_time": "2026-03-12"
+        },
+        "independence_day": {
+            "start_time": "2026-07-04",
+            "end_time": "2026-07-04"
+        },
+        "may_day": {
+            "start_time": "2026-05-01",
+            "end_time": "2026-05-05"
+        },
+        "thanksgiving": {
+            "start_time": "2026-11-26",
+            "end_time": "2026-11-26"
+        },
+        "christmas": {
+            "start_time": "2026-12-25",
+            "end_time": "2026-12-25"
+        },
+        "chinese_new_year": {
+            "start_time": "2026-02-17",
+            "end_time": "2026-02-17"
+        },
+        "chinese_new_year_eve": {
+            "start_time": "2026-02-16",
+            "end_time": "2026-02-16"
+        },
+        "dragon_boat": {
+            "start_time": "2026-06-09",
+            "end_time": "2026-06-09"
+        },
+        "double_ninth": {
+            "start_time": "2026-10-26",
+            "end_time": "2026-10-26"
+        },
+        "mid_autumn": {
+            "start_time": "2026-09-25",
+            "end_time": "2026-09-25"
+        }
+    },
+    "2026": {
+        "new_year": {
+            "start_time": "2026-01-01",
+            "end_time": "2026-01-01"
+        },
+        "arbor_day": {
+            "start_time": "2026-03-12",
+            "end_time": "2026-03-12"
+        },
+        "independence_day": {
+            "start_time": "2026-07-04",
+            "end_time": "2026-07-04"
+        },
+        "may_day": {
+            "start_time": "2026-05-01",
+            "end_time": "2026-05-05"
+        },
+        "thanksgiving": {
+            "start_time": "2026-11-26",
+            "end_time": "2026-11-26"
+        },
+        "christmas": {
+            "start_time": "2026-12-25",
+            "end_time": "2026-12-25"
+        },
+        "chinese_new_year": {
+            "start_time": "2026-02-17",
+            "end_time": "2026-02-17"
+        },
+        "chinese_new_year_eve": {
+            "start_time": "2026-02-16",
+            "end_time": "2026-02-16"
+        },
+        "dragon_boat": {
+            "start_time": "2026-06-09",
+            "end_time": "2026-06-09"
+        },
+        "double_ninth": {
+            "start_time": "2026-10-26",
+            "end_time": "2026-10-26"
+        },
+        "mid_autumn": {
+            "start_time": "2026-09-25",
+            "end_time": "2026-09-25"
+        }
+    },
+    "2025": {
+        "new_year": {
+            "start_time": "2025-01-01",
+            "end_time": "2025-01-01"
+        },
+        "arbor_day": {
+            "start_time": "2025-03-12",
+            "end_time": "2025-03-12"
+        },
+        "independence_day": {
+            "start_time": "2025-07-04",
+            "end_time": "2025-07-04"
+        },
+        "may_day": {
+            "start_time": "2025-05-01",
+            "end_time": "2025-05-05"
+        },
+        "thanksgiving": {
+            "start_time": "2025-11-27",
+            "end_time": "2025-11-27"
+        },
+        "christmas": {
+            "start_time": "2025-12-25",
+            "end_time": "2025-12-25"
+        },
+        "chinese_new_year": {
+            "start_time": "2025-01-29",
+            "end_time": "2025-01-29"
+        },
+        "chinese_new_year_eve": {
+            "start_time": "2025-01-28",
+            "end_time": "2025-01-28"
+        },
+        "dragon_boat": {
+            "start_time": "2025-05-31",
+            "end_time": "2025-05-31"
+        },
+        "double_ninth": {
+            "start_time": "2025-10-07",
+            "end_time": "2025-10-07"
+        },
+        "mid_autumn": {
+            "start_time": "2025-10-06",
+            "end_time": "2025-10-06"
+        }
+    },
+    "2024": {
+        "new_year": {
+            "start_time": "2024-01-01",
+            "end_time": "2024-01-01"
+        },
+        "arbor_day": {
+            "start_time": "2024-03-12",
+            "end_time": "2024-03-12"
+        },
+        "independence_day": {
+            "start_time": "2024-07-04",
+            "end_time": "2024-07-04"
+        },
+        "may_day": {
+            "start_time": "2024-05-01",
+            "end_time": "2024-05-05"
+        },
+        "thanksgiving": {
+            "start_time": "2024-11-28",
+            "end_time": "2024-11-28"
+        },
+        "christmas": {
+            "start_time": "2024-12-25",
+            "end_time": "2024-12-25"
+        },
+        "chinese_new_year": {
+            "start_time": "2024-02-10",
+            "end_time": "2024-02-10"
+        },
+        "chinese_new_year_eve": {
+            "start_time": "2024-02-09",
+            "end_time": "2024-02-09"
+        },
+        "dragon_boat": {
+            "start_time": "2024-06-10",
+            "end_time": "2024-06-10"
+        },
+        "double_ninth": {
+            "start_time": "2024-10-11",
+            "end_time": "2024-10-11"
+        },
+        "mid_autumn": {
+            "start_time": "2024-09-17",
+            "end_time": "2024-09-17"
+        }
+    },
+    "2023": {
+        "new_year": {
+            "start_time": "2023-01-01",
+            "end_time": "2023-01-01"
+        },
+        "arbor_day": {
+            "start_time": "2023-03-12",
+            "end_time": "2023-03-12"
+        },
+        "independence_day": {
+            "start_time": "2023-07-04",
+            "end_time": "2023-07-04"
+        },
+        "may_day": {
+            "start_time": "2023-05-01",
+            "end_time": "2023-05-05"
+        },
+        "thanksgiving": {
+            "start_time": "2023-11-23",
+            "end_time": "2023-11-23"
+        },
+        "christmas": {
+            "start_time": "2023-12-25",
+            "end_time": "2023-12-25"
+        },
+        "chinese_new_year": {
+            "start_time": "2023-01-22",
+            "end_time": "2023-01-22"
+        },
+        "chinese_new_year_eve": {
+            "start_time": "2023-01-21",
+            "end_time": "2023-01-21"
+        },
+        "dragon_boat": {
+            "start_time": "2023-06-22",
+            "end_time": "2023-06-22"
+        },
+        "double_ninth": {
+            "start_time": "2023-10-23",
+            "end_time": "2023-10-23"
+        },
+        "mid_autumn": {
+            "start_time": "2023-09-29",
+            "end_time": "2023-09-29"
+        }
+    }
+}
+

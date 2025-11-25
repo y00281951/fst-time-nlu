@@ -1,0 +1,3 @@
+libfst-dev
+libfst-tools
+

@@ -1,0 +1,22 @@
+[flake8]
+max-line-length = 120
+ignore = E203, E266, E501, W503, F403, F401, E265
+max-complexity = 70
+exclude = 
+    .git,
+    __pycache__,
+    .venv,
+    venv,
+    env,
+    build,
+    dist,
+    *.egg-info,
+    .idea,
+    .vscode,
+    migrations,
+    settings.py,
+    manage.py
+per-file-ignores =
+    __init__.py:F401
+    tests/*:F401,F811
+select = B,C,E,F,W,T4,B9

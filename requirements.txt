@@ -1,0 +1,15 @@
+# FST Time NLU - Python 依赖
+#
+# Streamlit Cloud 会自动检测并安装此文件中的依赖
+
+# Web 框架
+streamlit>=1.28.0
+
+# 核心依赖
+pynini>=2.1.5
+importlib-resources>=5.0.0
+zhdate
+lunarcalendar
+inflect>=5.0.0
+python-dateutil>=2.8.0
+PyYAML>=5.0.0

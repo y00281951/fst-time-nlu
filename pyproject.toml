@@ -1,0 +1,121 @@
+[build-system]
+requires = ["setuptools>=45", "wheel", "setuptools_scm[toml]>=6.2"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fst-time-nlu"
+version = "0.1.0"
+description = "基于有限状态转换器（FST）的中英文时间表达式识别和解析库"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "Apache-2.0"}
+authors = [
+    {name = "Ming Yu", email = "yuming@oppo.com"},
+    {name = "Liangliang Han", email = "hanliangliang@oppo.com"}
+]
+maintainers = [
+    {name = "Ming Yu", email = "yuming@oppo.com"},
+    {name = "Liangliang Han", email = "hanliangliang@oppo.com"}
+]
+keywords = [
+    "nlp",
+    "nlu",
+    "time-extraction",
+    "fst",
+    "finite-state-transducer",
+    "chinese-nlp",
+    "english-nlp",
+    "time-parsing",
+    "temporal-expression"
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: Apache Software License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Text Processing :: Linguistic",
+]
+
+dependencies = [
+    "pynini>=2.1.5",
+    "importlib-resources>=5.0.0",
+    "zhdate",
+    "lunarcalendar",
+    "inflect>=5.0.0",
+    "python-dateutil>=2.8.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=6.0.0",
+    "pytest-cov>=2.0.0",
+    "black>=21.0.0",
+    "flake8>=3.8.0",
+    "mypy>=0.800",
+]
+
+[project.urls]
+Homepage = "https://github.com/y00281951/fst-time-nlu"
+Documentation = "https://github.com/y00281951/fst-time-nlu#readme"
+Repository = "https://github.com/y00281951/fst-time-nlu"
+"Bug Tracker" = "https://github.com/y00281951/fst-time-nlu/issues"
+
+[project.scripts]
+fst-time = "main:main"
+
+[tool.setuptools]
+packages = ["src"]
+
+[tool.setuptools.package-data]
+"src.chinese" = ["data/**/*", "config/**/*"]
+"src.english" = ["data/**/*", "config/**/*"]
+
+[tool.black]
+line-length = 100
+target-version = ['py39', 'py310', 'py311', 'py312']
+include = '\.pyi?$'
+exclude = '''
+/(
+    \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | _build
+  | buck-out
+  | build
+  | dist
+)/
+'''
+
+[tool.pytest.ini_options]
+testpaths = ["src/chinese/test", "src/english/test"]
+python_files = ["test_*.py", "*_test.py", "benchmark.py", "standard.py"]
+addopts = "-v --cov=src --cov-report=term-missing --cov-report=html"
+
+[tool.mypy]
+python_version = "3.9"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = false
+ignore_missing_imports = true
+
+[tool.flake8]
+max-line-length = 100
+extend-ignore = ["E203", "W503"]
+exclude = [
+    ".git",
+    "__pycache__",
+    "build",
+    "dist",
+    ".venv",
+    "venv",
+]
+
