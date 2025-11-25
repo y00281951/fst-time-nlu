@@ -1,5 +1,9 @@
 # FST Time NLU
 
+<div align="right">
+  <a href="README.md">简体中文</a> | <a href="README_EN.md">English</a>
+</div>
+
 ## Time Expression Recognition and Parsing
 
 [![CI](https://github.com/y00281951/fst-time-nlu/workflows/CI/badge.svg)](https://github.com/y00281951/fst-time-nlu/actions)
@@ -518,13 +522,12 @@ Copyright (c) 2025 Ming Yu (yuming@oppo.com), Liangliang Han (hanliangliang@oppo
 If this project helps your research or work, feel free to cite:
 
 ```bibtex
-@misc{fst-time-nlu-2025,
+@misc{fst-time-nlu,
   title={FST Time NLU: Production First Time Expression Recognition},
   author={Ming Yu and Liangliang Han},
   year={2025},
   publisher={GitHub},
-  howpublished={\url{https://github.com/y00281951/fst-time-nlu}},
-  note={OPPO AI Center, LLM Algorithm Department}
+  howpublished={\url{https://github.com/y00281951/fst-time-nlu}}
 }
 ```
 
