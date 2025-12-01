@@ -58,9 +58,7 @@ def benchmark(extractor, input_file, show_all_cases=True, writer=print, language
 
                 _wall_cost = time.time() - _wall_start
                 _norm_cost = getattr(extractor, "normalizer_time", 0.0) - _norm_before
-                _parse_cost = (
-                    getattr(extractor, "time_parser_time", 0.0) - _parse_before
-                )
+                _parse_cost = getattr(extractor, "time_parser_time", 0.0) - _parse_before
                 # 比较结果
                 match = compare_results(datetime_results, gt)
                 if match:
@@ -132,7 +130,7 @@ def print_usage_examples():
     print(examples)
 
 
-def main():
+def main():  # noqa: C901
     """Main function for time extraction from text input.
 
     Parses command-line arguments and processes either single text input
@@ -146,26 +144,24 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 使用示例：
-# 解析单条中文文本
-python main.py --text "明天上午9点" --language chinese
+  # 解析单条中文文本
+  python main.py --text "明天上午9点" --language chinese
 
-# 解析单条英文文本
-python main.py --text "3 PM tomorrow" --language english
+  # 解析单条英文文本
+  python main.py --text "3 PM tomorrow" --language english
 
-# 批量处理文件
-python main.py --file src/chinese/test/groundtruth_utc.jsonl --language chinese
+  # 批量处理文件
+  python main.py --file src/chinese/test/groundtruth_utc.jsonl --language chinese
 
-# 批量处理并保存结果
-python main.py --file input.jsonl --output result.txt --language chinese
+  # 批量处理并保存结果
+  python main.py --file input.jsonl --output result.txt --language chinese
 
 更多信息请查看 README.md
         """,
     )
     parser.add_argument("--text", help="Input text string for time extraction")
     parser.add_argument("--file", help="Path to input file for batch processing")
-    parser.add_argument(
-        "--output", help="Path to output file for saving --file results"
-    )
+    parser.add_argument("--output", help="Path to output file for saving --file results")
     parser.add_argument(
         "--overwrite_cache",
         action="store_true",
@@ -212,6 +208,7 @@ python main.py --file input.jsonl --output result.txt --language chinese
     # 参数验证：检查文件是否存在
     if args.file:
         import os
+
         if not os.path.exists(args.file):
             print(f"错误：文件不存在: {args.file}\n")
             return 1
